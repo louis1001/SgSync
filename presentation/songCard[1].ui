@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<interface>
+  <object class="ttk.Frame" id="Frame_1">
+    <property name="height">70</property>
+    <property name="relief">flat</property>
+    <property name="takefocus">false</property>
+    <property name="width">350</property>
+    <layout>
+      <property name="column">0</property>
+      <property name="propagate">True</property>
+      <property name="row">0</property>
+    </layout>
+    <child>
+      <object class="ttk.Label" id="song_name">
+        <property name="anchor">center</property>
+        <property name="background">#ddd</property>
+        <property name="font">TkCaptionFont</property>
+        <property name="takefocus">false</property>
+        <property name="text" translatable="yes">SongName</property>
+        <property name="underline">0</property>
+        <property name="width">0</property>
+        <layout>
+          <property name="column">0</property>
+          <property name="propagate">True</property>
+          <property name="row">0</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="ttk.Label" id="album_artist">
+        <property name="anchor">w</property>
+        <property name="background">#ddd</property>
+        <property name="font">TkSmallCaptionFont</property>
+        <property name="text" translatable="yes">Album, Artist</property>
+        <property name="underline">0</property>
+        <property name="width">0</property>
+        <layout>
+          <property name="column">0</property>
+          <property name="columnspan">3</property>
+          <property name="propagate">True</property>
+          <property name="row">1</property>
+          <property name="sticky">s</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="ttk.Checkbutton" id="downloadedCk">
+        <property name="compound">bottom</property>
+        <property name="cursor">arrow</property>
+        <property name="state">normal</property>
+        <property name="text" translatable="yes">is downloaded</property>
+        <layout>
+          <property name="column">3</property>
+          <property name="propagate">True</property>
+          <property name="row">0</property>
+          <property name="rowspan">1</property>
+        </layout>
+      </object>
+    </child>
+  </object>
+</interface>

@@ -1,0 +1,16 @@
+Help on package spotipy:
+
+NNAAMMEE
+    spotipy
+
+PPAACCKKAAGGEE  CCOONNTTEENNTTSS
+    client
+    oauth2
+    util
+
+DDAATTAA
+    VVEERRSSIIOONN = '2.0.1'
+
+FFIILLEE
+    /usr/local/lib/python3.5/dist-packages/spotipy/__init__.py
+

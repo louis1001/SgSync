@@ -1,0 +1,35 @@
+[
+    {
+        "py/object": "entities.musicEntities.Playlist",
+        "tracks": [
+            {
+                "py/object": "entities.musicEntities.Song",
+                "length": "6:7",
+                "date": "2013-05-17",
+                "file": "/home/louis_/Music/Daft Punk - Get Lucky.mp3",
+                "album": "Random Access Memories",
+                "title": "Get Lucky",
+                "artist": "Daft Punk",
+                "added": 1500064024,
+                "id": 67238735,
+                "service": "deezer"
+            },
+            {
+                "py/object": "entities.musicEntities.Song",
+                "length": "4:2",
+                "date": "2014-03-23",
+                "file": "/home/louis_/Music/Hozier - Take Me To Church.mp3",
+                "album": "Take Me To Church",
+                "title": "Take Me To Church",
+                "artist": "Hozier",
+                "added": 1500064680,
+                "id": 76220160,
+                "service": "deezer"
+            }
+        ],
+        "id": "3338048526",
+        "service": "deezer",
+        "link": "",
+        "name": ""
+    }
+]

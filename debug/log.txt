@@ -1,0 +1,2475 @@
+[13/07/2017 08:23:35]		Starting up program.
+[13/07/2017 08:23:37]		Connected to the internet.
+[13/07/2017 08:23:42]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:23:47]		Succesfully loaded the list.
+[13/07/2017 08:23:51]		Analizing  list for changes.
+[13/07/2017 08:23:57]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:23:59]		Succesfully loaded the list.
+[13/07/2017 08:24:01]		Analizing  list for changes.
+[13/07/2017 08:24:07]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:24:10]		Succesfully loaded the list.
+[13/07/2017 08:24:11]		Analizing  list for changes.
+[13/07/2017 08:24:17]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:24:21]		Succesfully loaded the list.
+[13/07/2017 08:24:25]		Analizing  list for changes.
+[13/07/2017 08:24:31]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:24:39]		Succesfully loaded the list.
+[13/07/2017 08:24:41]		Analizing  list for changes.
+[13/07/2017 08:24:46]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:24:53]		Succesfully loaded the list.
+[13/07/2017 08:24:56]		Analizing  list for changes.
+[13/07/2017 08:25:02]		Disconnected from internet.
+[13/07/2017 08:25:09]		Connected to the internet.
+[13/07/2017 08:25:14]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:25:19]		Succesfully loaded the list.
+[13/07/2017 08:25:36]		Analizing  list for changes.
+[13/07/2017 08:25:43]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:25:48]		Succesfully loaded the list.
+[13/07/2017 08:25:53]		Analizing  list for changes.
+[13/07/2017 08:26:00]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:26:06]		Succesfully loaded the list.
+[13/07/2017 08:26:10]		Analizing  list for changes.
+[13/07/2017 08:26:17]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:26:21]		Succesfully loaded the list.
+[13/07/2017 08:26:23]		Analizing  list for changes.
+[13/07/2017 08:26:29]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:26:35]		Succesfully loaded the list.
+[13/07/2017 08:26:55]		Analizing  list for changes.
+[13/07/2017 08:27:05]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:27:09]		Succesfully loaded the list.
+[13/07/2017 08:27:12]		Analizing  list for changes.
+[13/07/2017 08:27:17]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:27:20]		Succesfully loaded the list.
+[13/07/2017 08:27:24]		Analizing  list for changes.
+[13/07/2017 08:27:30]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:27:32]		Succesfully loaded the list.
+[13/07/2017 08:27:37]		Analizing  list for changes.
+[13/07/2017 08:27:43]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:27:45]		Succesfully loaded the list.
+[13/07/2017 08:27:57]		Analizing  list for changes.
+[13/07/2017 08:27:57]		Believer isn't downloaded. Starting Download.
+[13/07/2017 08:27:57]		Getting youtube links for Believer.
+[13/07/2017 08:28:53]		Downloading the audio for Believer with video id 9MJAg0VDgO0.
+[13/07/2017 08:30:31]		Believer has been downloaded succesfully. Registering the file.
+[13/07/2017 08:30:33]		Setting tags for Believer.
+[13/07/2017 08:30:34]		Tags set.
+[13/07/2017 08:30:34]		Getting the artist from song #%s from deezer.
+[13/07/2017 08:30:34]		Getting the track #375437371 from deezer.
+[13/07/2017 08:30:37]		Succesfully loaded the track.
+[13/07/2017 08:30:41]		Getting the track #375437371 from deezer.
+[13/07/2017 08:30:43]		Succesfully loaded the track.
+[13/07/2017 08:30:53]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:30:57]		Succesfully loaded the list.
+[13/07/2017 08:31:03]		Analizing  list for changes.
+[13/07/2017 08:31:10]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:31:14]		Succesfully loaded the list.
+[13/07/2017 08:31:18]		Analizing  list for changes.
+[13/07/2017 08:31:26]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:31:32]		Succesfully loaded the list.
+[13/07/2017 08:31:44]		Analizing  list for changes.
+[13/07/2017 08:31:50]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:31:53]		Succesfully loaded the list.
+[13/07/2017 08:31:58]		Analizing  list for changes.
+[13/07/2017 08:32:04]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:32:06]		Succesfully loaded the list.
+[13/07/2017 08:32:14]		Analizing  list for changes.
+[13/07/2017 08:32:20]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:32:25]		Succesfully loaded the list.
+[13/07/2017 08:32:30]		Analizing  list for changes.
+[13/07/2017 08:32:36]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:32:49]		Succesfully loaded the list.
+[13/07/2017 08:32:58]		Analizing  list for changes.
+[13/07/2017 08:33:04]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:33:08]		Succesfully loaded the list.
+[13/07/2017 08:33:17]		Analizing  list for changes.
+[13/07/2017 08:33:23]		Getting the playlist #3338048526 from deezer.
+[13/07/2017 08:33:25]		Succesfully loaded the list.
+[13/07/2017 08:33:31]		Analizing  list for changes.
+[14/07/2017 00:48:04]		Starting up program.
+[14/07/2017 00:48:05]		Connected to the internet.
+[14/07/2017 00:48:10]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:48:11]		Succesfully loaded the list.
+[14/07/2017 00:48:22]		Analizing  list for changes.
+[14/07/2017 00:48:27]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:48:29]		Succesfully loaded the list.
+[14/07/2017 00:48:40]		Analizing  list for changes.
+[14/07/2017 00:48:45]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:48:48]		Succesfully loaded the list.
+[14/07/2017 00:48:53]		Analizing  list for changes.
+[14/07/2017 00:48:59]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:49:00]		Succesfully loaded the list.
+[14/07/2017 00:49:07]		Analizing  list for changes.
+[14/07/2017 00:49:13]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:49:14]		Succesfully loaded the list.
+[14/07/2017 00:49:16]		Analizing  list for changes.
+[14/07/2017 00:49:22]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:49:24]		Succesfully loaded the list.
+[14/07/2017 00:49:26]		Analizing  list for changes.
+[14/07/2017 00:49:37]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:49:41]		Succesfully loaded the list.
+[14/07/2017 00:49:45]		Analizing  list for changes.
+[14/07/2017 00:49:52]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:49:55]		Succesfully loaded the list.
+[14/07/2017 00:49:59]		Analizing  list for changes.
+[14/07/2017 00:50:04]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:50:07]		Succesfully loaded the list.
+[14/07/2017 00:50:25]		Analizing  list for changes.
+[14/07/2017 00:50:37]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:50:39]		Succesfully loaded the list.
+[14/07/2017 00:50:43]		Analizing  list for changes.
+[14/07/2017 00:50:49]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:50:54]		Succesfully loaded the list.
+[14/07/2017 00:51:01]		Analizing  list for changes.
+[14/07/2017 00:51:07]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:51:17]		Succesfully loaded the list.
+[14/07/2017 00:51:19]		Analizing  list for changes.
+[14/07/2017 00:51:25]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:51:27]		Succesfully loaded the list.
+[14/07/2017 00:51:33]		Analizing  list for changes.
+[14/07/2017 00:51:38]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:51:40]		Succesfully loaded the list.
+[14/07/2017 00:51:53]		Analizing  list for changes.
+[14/07/2017 00:51:58]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:52:00]		Succesfully loaded the list.
+[14/07/2017 00:52:11]		Analizing  list for changes.
+[14/07/2017 00:52:17]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:52:20]		Succesfully loaded the list.
+[14/07/2017 00:52:29]		Analizing  list for changes.
+[14/07/2017 00:52:34]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:52:38]		Succesfully loaded the list.
+[14/07/2017 00:52:44]		Analizing  list for changes.
+[14/07/2017 00:52:49]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:52:55]		Succesfully loaded the list.
+[14/07/2017 00:52:58]		Analizing  list for changes.
+[14/07/2017 00:53:04]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:53:10]		Succesfully loaded the list.
+[14/07/2017 00:53:14]		Analizing  list for changes.
+[14/07/2017 00:53:20]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:53:31]		Succesfully loaded the list.
+[14/07/2017 00:53:47]		Analizing  list for changes.
+[14/07/2017 00:53:52]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:53:55]		Succesfully loaded the list.
+[14/07/2017 00:53:58]		Analizing  list for changes.
+[14/07/2017 00:54:09]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:54:11]		Succesfully loaded the list.
+[14/07/2017 00:54:14]		Analizing  list for changes.
+[14/07/2017 00:54:21]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:54:22]		Succesfully loaded the list.
+[14/07/2017 00:54:25]		Analizing  list for changes.
+[14/07/2017 00:54:31]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:54:33]		Succesfully loaded the list.
+[14/07/2017 00:54:42]		Analizing  list for changes.
+[14/07/2017 00:54:47]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:54:49]		Succesfully loaded the list.
+[14/07/2017 00:54:57]		Analizing  list for changes.
+[14/07/2017 00:55:02]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:55:04]		Succesfully loaded the list.
+[14/07/2017 00:55:06]		Analizing  list for changes.
+[14/07/2017 00:55:13]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:55:15]		Succesfully loaded the list.
+[14/07/2017 00:55:17]		Analizing  list for changes.
+[14/07/2017 00:55:23]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:55:25]		Succesfully loaded the list.
+[14/07/2017 00:55:27]		Analizing  list for changes.
+[14/07/2017 00:55:32]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:55:33]		Succesfully loaded the list.
+[14/07/2017 00:55:35]		Analizing  list for changes.
+[14/07/2017 00:55:40]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:55:42]		Succesfully loaded the list.
+[14/07/2017 00:55:44]		Analizing  list for changes.
+[14/07/2017 00:55:49]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:55:51]		Succesfully loaded the list.
+[14/07/2017 00:55:53]		Analizing  list for changes.
+[14/07/2017 00:55:59]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:56:03]		Succesfully loaded the list.
+[14/07/2017 00:56:05]		Analizing  list for changes.
+[14/07/2017 00:56:11]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:56:16]		Succesfully loaded the list.
+[14/07/2017 00:56:23]		Analizing  list for changes.
+[14/07/2017 00:56:29]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:56:33]		Succesfully loaded the list.
+[14/07/2017 00:56:41]		Analizing  list for changes.
+[14/07/2017 00:56:47]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:56:52]		Succesfully loaded the list.
+[14/07/2017 00:56:53]		Analizing  list for changes.
+[14/07/2017 00:56:59]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:57:01]		Succesfully loaded the list.
+[14/07/2017 00:57:04]		Analizing  list for changes.
+[14/07/2017 00:57:09]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:57:12]		Succesfully loaded the list.
+[14/07/2017 00:57:19]		Analizing  list for changes.
+[14/07/2017 00:57:25]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:57:27]		Succesfully loaded the list.
+[14/07/2017 00:57:47]		Analizing  list for changes.
+[14/07/2017 00:57:53]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:57:59]		Succesfully loaded the list.
+[14/07/2017 00:58:09]		Analizing  list for changes.
+[14/07/2017 00:58:14]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:58:15]		Succesfully loaded the list.
+[14/07/2017 00:58:19]		Analizing  list for changes.
+[14/07/2017 00:58:24]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:58:28]		Succesfully loaded the list.
+[14/07/2017 00:58:29]		Analizing  list for changes.
+[14/07/2017 00:58:36]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:58:38]		Succesfully loaded the list.
+[14/07/2017 00:58:40]		Analizing  list for changes.
+[14/07/2017 00:58:46]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:58:47]		Succesfully loaded the list.
+[14/07/2017 00:58:50]		Analizing  list for changes.
+[14/07/2017 00:58:55]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:59:02]		Succesfully loaded the list.
+[14/07/2017 00:59:05]		Analizing  list for changes.
+[14/07/2017 00:59:17]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:59:22]		Succesfully loaded the list.
+[14/07/2017 00:59:34]		Analizing  list for changes.
+[14/07/2017 00:59:39]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:59:45]		Succesfully loaded the list.
+[14/07/2017 00:59:49]		Analizing  list for changes.
+[14/07/2017 00:59:54]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 00:59:58]		Succesfully loaded the list.
+[14/07/2017 01:00:00]		Analizing  list for changes.
+[14/07/2017 01:00:05]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:00:13]		Succesfully loaded the list.
+[14/07/2017 01:00:33]		Analizing  list for changes.
+[14/07/2017 01:00:43]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:00:48]		Succesfully loaded the list.
+[14/07/2017 01:01:04]		Analizing  list for changes.
+[14/07/2017 01:01:15]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:01:17]		Succesfully loaded the list.
+[14/07/2017 01:01:26]		Analizing  list for changes.
+[14/07/2017 01:01:32]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:01:39]		Succesfully loaded the list.
+[14/07/2017 01:01:48]		Analizing  list for changes.
+[14/07/2017 01:01:55]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:01:57]		Succesfully loaded the list.
+[14/07/2017 01:02:10]		Analizing  list for changes.
+[14/07/2017 01:02:16]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:02:20]		Succesfully loaded the list.
+[14/07/2017 01:02:29]		Analizing  list for changes.
+[14/07/2017 01:02:35]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:02:42]		Succesfully loaded the list.
+[14/07/2017 01:02:45]		Analizing  list for changes.
+[14/07/2017 01:02:56]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:03:16]		Succesfully loaded the list.
+[14/07/2017 01:03:40]		Analizing  list for changes.
+[14/07/2017 01:03:45]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:03:49]		Succesfully loaded the list.
+[14/07/2017 01:03:51]		Analizing  list for changes.
+[14/07/2017 01:04:02]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:04:13]		Succesfully loaded the list.
+[14/07/2017 01:04:21]		Analizing  list for changes.
+[14/07/2017 01:04:27]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:04:30]		Succesfully loaded the list.
+[14/07/2017 01:04:34]		Analizing  list for changes.
+[14/07/2017 01:04:44]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:04:54]		Succesfully loaded the list.
+[14/07/2017 01:04:55]		Analizing  list for changes.
+[14/07/2017 01:05:07]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:05:11]		Succesfully loaded the list.
+[14/07/2017 01:05:14]		Analizing  list for changes.
+[14/07/2017 01:05:20]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:05:28]		Succesfully loaded the list.
+[14/07/2017 01:05:35]		Analizing  list for changes.
+[14/07/2017 01:05:41]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:05:43]		Succesfully loaded the list.
+[14/07/2017 01:05:46]		Analizing  list for changes.
+[14/07/2017 01:05:52]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:05:54]		Succesfully loaded the list.
+[14/07/2017 01:06:01]		Analizing  list for changes.
+[14/07/2017 01:06:07]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:06:09]		Succesfully loaded the list.
+[14/07/2017 01:06:11]		Analizing  list for changes.
+[14/07/2017 01:06:17]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:06:19]		Succesfully loaded the list.
+[14/07/2017 01:06:23]		Analizing  list for changes.
+[14/07/2017 01:06:28]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:06:30]		Succesfully loaded the list.
+[14/07/2017 01:06:34]		Analizing  list for changes.
+[14/07/2017 01:06:40]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:06:42]		Succesfully loaded the list.
+[14/07/2017 01:06:43]		Analizing  list for changes.
+[14/07/2017 01:06:49]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:06:55]		Succesfully loaded the list.
+[14/07/2017 01:06:59]		Analizing  list for changes.
+[14/07/2017 01:07:04]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:07:05]		Succesfully loaded the list.
+[14/07/2017 01:07:12]		Analizing  list for changes.
+[14/07/2017 01:07:18]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:07:20]		Succesfully loaded the list.
+[14/07/2017 01:07:31]		Analizing  list for changes.
+[14/07/2017 01:07:37]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:07:40]		Succesfully loaded the list.
+[14/07/2017 01:07:45]		Analizing  list for changes.
+[14/07/2017 01:07:50]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:07:53]		Succesfully loaded the list.
+[14/07/2017 01:07:55]		Analizing  list for changes.
+[14/07/2017 01:08:00]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:08:02]		Succesfully loaded the list.
+[14/07/2017 01:08:10]		Analizing  list for changes.
+[14/07/2017 01:08:15]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:08:17]		Succesfully loaded the list.
+[14/07/2017 01:08:23]		Analizing  list for changes.
+[14/07/2017 01:08:28]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:08:30]		Succesfully loaded the list.
+[14/07/2017 01:08:37]		Analizing  list for changes.
+[14/07/2017 01:08:43]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:08:49]		Succesfully loaded the list.
+[14/07/2017 01:09:00]		Analizing  list for changes.
+[14/07/2017 01:09:05]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:09:11]		Succesfully loaded the list.
+[14/07/2017 01:09:19]		Analizing  list for changes.
+[14/07/2017 01:09:24]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:09:26]		Succesfully loaded the list.
+[14/07/2017 01:09:34]		Analizing  list for changes.
+[14/07/2017 01:09:40]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:09:42]		Succesfully loaded the list.
+[14/07/2017 01:09:53]		Analizing  list for changes.
+[14/07/2017 01:09:59]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:10:02]		Succesfully loaded the list.
+[14/07/2017 01:10:05]		Analizing  list for changes.
+[14/07/2017 01:10:10]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:10:11]		Succesfully loaded the list.
+[14/07/2017 01:10:13]		Analizing  list for changes.
+[14/07/2017 01:10:18]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:10:20]		Succesfully loaded the list.
+[14/07/2017 01:10:29]		Analizing  list for changes.
+[14/07/2017 01:10:40]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:10:42]		Succesfully loaded the list.
+[14/07/2017 01:10:46]		Analizing  list for changes.
+[14/07/2017 01:10:57]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:10:58]		Succesfully loaded the list.
+[14/07/2017 01:11:00]		Analizing  list for changes.
+[14/07/2017 01:11:05]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:11:12]		Succesfully loaded the list.
+[14/07/2017 01:11:13]		Analizing  list for changes.
+[14/07/2017 01:11:18]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:11:19]		Succesfully loaded the list.
+[14/07/2017 01:11:21]		Analizing  list for changes.
+[14/07/2017 01:11:27]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:11:29]		Succesfully loaded the list.
+[14/07/2017 01:11:33]		Analizing  list for changes.
+[14/07/2017 01:11:38]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:11:41]		Succesfully loaded the list.
+[14/07/2017 01:11:46]		Analizing  list for changes.
+[14/07/2017 01:11:51]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:11:56]		Succesfully loaded the list.
+[14/07/2017 01:11:58]		Analizing  list for changes.
+[14/07/2017 01:12:03]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:12:08]		Succesfully loaded the list.
+[14/07/2017 01:12:15]		Analizing  list for changes.
+[14/07/2017 01:12:20]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:12:25]		Succesfully loaded the list.
+[14/07/2017 01:12:28]		Analizing  list for changes.
+[14/07/2017 01:12:35]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:12:45]		Succesfully loaded the list.
+[14/07/2017 01:12:55]		Analizing  list for changes.
+[14/07/2017 01:13:02]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:13:05]		Succesfully loaded the list.
+[14/07/2017 01:13:07]		Analizing  list for changes.
+[14/07/2017 01:13:13]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:13:20]		Succesfully loaded the list.
+[14/07/2017 01:13:30]		Analizing  list for changes.
+[14/07/2017 01:13:36]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:13:38]		Starting up program.
+[14/07/2017 01:13:39]		Connected to the internet.
+[14/07/2017 01:13:41]		Succesfully loaded the list.
+[14/07/2017 01:13:44]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:14:08]		Analizing  list for changes.
+[14/07/2017 01:14:15]		Exiting the app.
+[14/07/2017 01:14:16]		[Error] Couldn't get the list.
+[14/07/2017 01:14:27]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:14:33]		Succesfully loaded the list.
+[14/07/2017 01:14:38]		Analizing  list for changes.
+[14/07/2017 01:14:43]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:14:49]		Succesfully loaded the list.
+[14/07/2017 01:14:51]		Analizing  list for changes.
+[14/07/2017 01:14:57]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:14:59]		Succesfully loaded the list.
+[14/07/2017 01:15:09]		Analizing  list for changes.
+[14/07/2017 01:15:15]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:15:17]		Succesfully loaded the list.
+[14/07/2017 01:15:20]		Analizing  list for changes.
+[14/07/2017 01:15:25]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:15:28]		Succesfully loaded the list.
+[14/07/2017 01:15:32]		Analizing  list for changes.
+[14/07/2017 01:15:38]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:15:40]		Succesfully loaded the list.
+[14/07/2017 01:15:42]		Analizing  list for changes.
+[14/07/2017 01:15:48]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:15:50]		Succesfully loaded the list.
+[14/07/2017 01:15:52]		Analizing  list for changes.
+[14/07/2017 01:15:57]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:16:01]		Succesfully loaded the list.
+[14/07/2017 01:16:07]		Analizing  list for changes.
+[14/07/2017 01:16:14]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:16:16]		Succesfully loaded the list.
+[14/07/2017 01:16:20]		Analizing  list for changes.
+[14/07/2017 01:16:25]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:16:30]		Succesfully loaded the list.
+[14/07/2017 01:16:42]		Analizing  list for changes.
+[14/07/2017 01:16:50]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:16:53]		Succesfully loaded the list.
+[14/07/2017 01:17:00]		Analizing  list for changes.
+[14/07/2017 01:17:11]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:17:13]		Succesfully loaded the list.
+[14/07/2017 01:17:20]		Analizing  list for changes.
+[14/07/2017 01:17:31]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:17:34]		Succesfully loaded the list.
+[14/07/2017 01:17:41]		Analizing  list for changes.
+[14/07/2017 01:17:46]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:17:49]		Succesfully loaded the list.
+[14/07/2017 01:17:58]		Analizing  list for changes.
+[14/07/2017 01:18:04]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:18:06]		Succesfully loaded the list.
+[14/07/2017 01:18:18]		Analizing  list for changes.
+[14/07/2017 01:18:24]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:18:28]		Succesfully loaded the list.
+[14/07/2017 01:18:30]		Analizing  list for changes.
+[14/07/2017 01:18:36]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:18:38]		Succesfully loaded the list.
+[14/07/2017 01:18:42]		Analizing  list for changes.
+[14/07/2017 01:18:47]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:18:49]		Succesfully loaded the list.
+[14/07/2017 01:18:58]		Analizing  list for changes.
+[14/07/2017 01:19:03]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:19:04]		Succesfully loaded the list.
+[14/07/2017 01:19:08]		Analizing  list for changes.
+[14/07/2017 01:19:13]		Starting up program.
+[14/07/2017 01:19:14]		Connected to the internet.
+[14/07/2017 01:19:18]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:19:19]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:19:21]		Succesfully loaded the list.
+[14/07/2017 01:19:21]		Succesfully loaded the list.
+[14/07/2017 01:19:24]		Analizing  list for changes.
+[14/07/2017 01:19:25]		Analizing  list for changes.
+[14/07/2017 01:19:29]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:19:30]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:19:31]		Succesfully loaded the list.
+[14/07/2017 01:19:32]		Succesfully loaded the list.
+[14/07/2017 01:19:34]		Analizing  list for changes.
+[14/07/2017 01:19:35]		Analizing  list for changes.
+[14/07/2017 01:19:40]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:19:43]		Succesfully loaded the list.
+[14/07/2017 01:19:46]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:19:53]		Succesfully loaded the list.
+[14/07/2017 01:19:59]		Analizing  list for changes.
+[14/07/2017 01:20:00]		Analizing  list for changes.
+[14/07/2017 01:20:04]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:20:07]		Succesfully loaded the list.
+[14/07/2017 01:20:10]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:20:29]		Succesfully loaded the list.
+[14/07/2017 01:20:31]		Analizing  list for changes.
+[14/07/2017 01:20:37]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:20:53]		Analizing  list for changes.
+[14/07/2017 01:20:58]		[Error] Couldn't get the list.
+[14/07/2017 01:21:00]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:21:07]		Succesfully loaded the list.
+[14/07/2017 01:21:09]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:21:17]		Succesfully loaded the list.
+[14/07/2017 01:21:21]		Analizing  list for changes.
+[14/07/2017 01:21:25]		Analizing  list for changes.
+[14/07/2017 01:21:27]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:21:29]		Succesfully loaded the list.
+[14/07/2017 01:21:32]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:21:39]		Succesfully loaded the list.
+[14/07/2017 01:21:39]		Analizing  list for changes.
+[14/07/2017 01:21:43]		Analizing  list for changes.
+[14/07/2017 01:21:44]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:21:50]		Succesfully loaded the list.
+[14/07/2017 01:21:54]		Analizing  list for changes.
+[14/07/2017 01:21:55]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:22:00]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:22:00]		Succesfully loaded the list.
+[14/07/2017 01:22:02]		Succesfully loaded the list.
+[14/07/2017 01:22:05]		Analizing  list for changes.
+[14/07/2017 01:22:06]		Analizing  list for changes.
+[14/07/2017 01:22:12]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:22:13]		Succesfully loaded the list.
+[14/07/2017 01:22:15]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:22:21]		Analizing  list for changes.
+[14/07/2017 01:22:26]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:22:27]		Succesfully loaded the list.
+[14/07/2017 01:22:34]		Succesfully loaded the list.
+[14/07/2017 01:22:39]		Analizing  list for changes.
+[14/07/2017 01:22:42]		Analizing  list for changes.
+[14/07/2017 01:22:44]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:22:47]		Succesfully loaded the list.
+[14/07/2017 01:22:49]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:22:51]		Analizing  list for changes.
+[14/07/2017 01:22:55]		Succesfully loaded the list.
+[14/07/2017 01:22:56]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:22:59]		Succesfully loaded the list.
+[14/07/2017 01:23:02]		Analizing  list for changes.
+[14/07/2017 01:23:07]		Analizing  list for changes.
+[14/07/2017 01:23:08]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:23:12]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:23:12]		Succesfully loaded the list.
+[14/07/2017 01:23:19]		Succesfully loaded the list.
+[14/07/2017 01:23:23]		Analizing  list for changes.
+[14/07/2017 01:23:25]		Analizing  list for changes.
+[14/07/2017 01:23:29]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:23:30]		Succesfully loaded the list.
+[14/07/2017 01:23:30]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:23:32]		Succesfully loaded the list.
+[14/07/2017 01:23:35]		Analizing  list for changes.
+[14/07/2017 01:23:40]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:23:42]		Analizing  list for changes.
+[14/07/2017 01:23:43]		Succesfully loaded the list.
+[14/07/2017 01:23:46]		Analizing  list for changes.
+[14/07/2017 01:23:47]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:23:49]		Succesfully loaded the list.
+[14/07/2017 01:23:51]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:23:52]		Succesfully loaded the list.
+[14/07/2017 01:23:52]		Analizing  list for changes.
+[14/07/2017 01:23:54]		Analizing  list for changes.
+[14/07/2017 01:23:58]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:24:00]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:24:02]		Succesfully loaded the list.
+[14/07/2017 01:24:03]		Succesfully loaded the list.
+[14/07/2017 01:24:06]		Analizing  list for changes.
+[14/07/2017 01:24:06]		Analizing  list for changes.
+[14/07/2017 01:24:13]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:24:14]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:24:16]		Succesfully loaded the list.
+[14/07/2017 01:24:17]		Succesfully loaded the list.
+[14/07/2017 01:24:20]		Analizing  list for changes.
+[14/07/2017 01:24:21]		Analizing  list for changes.
+[14/07/2017 01:24:25]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:24:26]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:24:29]		Succesfully loaded the list.
+[14/07/2017 01:24:29]		Succesfully loaded the list.
+[14/07/2017 01:24:32]		Analizing  list for changes.
+[14/07/2017 01:24:32]		Analizing  list for changes.
+[14/07/2017 01:24:37]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:24:37]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:24:39]		Succesfully loaded the list.
+[14/07/2017 01:24:40]		Succesfully loaded the list.
+[14/07/2017 01:24:42]		Analizing  list for changes.
+[14/07/2017 01:24:48]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:24:50]		Succesfully loaded the list.
+[14/07/2017 01:24:52]		Analizing  list for changes.
+[14/07/2017 01:24:53]		Analizing  list for changes.
+[14/07/2017 01:24:58]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:24:59]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:25:00]		Succesfully loaded the list.
+[14/07/2017 01:25:04]		Succesfully loaded the list.
+[14/07/2017 01:25:06]		Analizing  list for changes.
+[14/07/2017 01:25:09]		Analizing  list for changes.
+[14/07/2017 01:25:12]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:25:15]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:25:18]		Succesfully loaded the list.
+[14/07/2017 01:25:19]		Succesfully loaded the list.
+[14/07/2017 01:25:26]		Analizing  list for changes.
+[14/07/2017 01:25:29]		Analizing  list for changes.
+[14/07/2017 01:25:34]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:25:34]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:25:36]		Succesfully loaded the list.
+[14/07/2017 01:25:37]		Succesfully loaded the list.
+[14/07/2017 01:25:44]		Analizing  list for changes.
+[14/07/2017 01:25:46]		Analizing  list for changes.
+[14/07/2017 01:25:50]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:25:52]		Succesfully loaded the list.
+[14/07/2017 01:25:52]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:25:53]		Succesfully loaded the list.
+[14/07/2017 01:25:54]		Analizing  list for changes.
+[14/07/2017 01:25:56]		Analizing  list for changes.
+[14/07/2017 01:25:59]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:26:01]		Succesfully loaded the list.
+[14/07/2017 01:26:01]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:26:02]		Succesfully loaded the list.
+[14/07/2017 01:26:05]		Analizing  list for changes.
+[14/07/2017 01:26:06]		Analizing  list for changes.
+[14/07/2017 01:26:10]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:26:11]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:26:12]		Succesfully loaded the list.
+[14/07/2017 01:26:13]		Succesfully loaded the list.
+[14/07/2017 01:26:14]		Analizing  list for changes.
+[14/07/2017 01:26:15]		Analizing  list for changes.
+[14/07/2017 01:26:19]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:26:21]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:26:22]		Succesfully loaded the list.
+[14/07/2017 01:26:22]		Succesfully loaded the list.
+[14/07/2017 01:26:31]		Analizing  list for changes.
+[14/07/2017 01:26:35]		Analizing  list for changes.
+[14/07/2017 01:26:36]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:26:37]		Succesfully loaded the list.
+[14/07/2017 01:26:40]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:26:41]		Analizing  list for changes.
+[14/07/2017 01:26:41]		Succesfully loaded the list.
+[14/07/2017 01:26:44]		Analizing  list for changes.
+[14/07/2017 01:26:46]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:26:48]		Succesfully loaded the list.
+[14/07/2017 01:26:50]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:26:50]		Exiting the app.
+[14/07/2017 01:26:51]		Analizing  list for changes.
+[14/07/2017 01:26:58]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:27:01]		Succesfully loaded the list.
+[14/07/2017 01:27:05]		Analizing  list for changes.
+[14/07/2017 01:27:10]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:27:13]		Succesfully loaded the list.
+[14/07/2017 01:27:22]		Analizing  list for changes.
+[14/07/2017 01:27:33]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:27:38]		Succesfully loaded the list.
+[14/07/2017 01:27:43]		Analizing  list for changes.
+[14/07/2017 01:27:48]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:27:56]		Succesfully loaded the list.
+[14/07/2017 01:27:58]		Analizing  list for changes.
+[14/07/2017 01:28:09]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:28:12]		Succesfully loaded the list.
+[14/07/2017 01:28:19]		Analizing  list for changes.
+[14/07/2017 01:28:25]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:28:28]		Succesfully loaded the list.
+[14/07/2017 01:28:40]		Analizing  list for changes.
+[14/07/2017 01:28:46]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:28:48]		Succesfully loaded the list.
+[14/07/2017 01:28:56]		Analizing  list for changes.
+[14/07/2017 01:29:01]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:29:02]		Succesfully loaded the list.
+[14/07/2017 01:29:07]		Analizing  list for changes.
+[14/07/2017 01:29:13]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:29:19]		Succesfully loaded the list.
+[14/07/2017 01:29:33]		Analizing  list for changes.
+[14/07/2017 01:29:44]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:29:50]		Succesfully loaded the list.
+[14/07/2017 01:29:57]		Analizing  list for changes.
+[14/07/2017 01:30:03]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:30:12]		Succesfully loaded the list.
+[14/07/2017 01:30:23]		Analizing  list for changes.
+[14/07/2017 01:30:28]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:30:31]		Succesfully loaded the list.
+[14/07/2017 01:30:36]		Analizing  list for changes.
+[14/07/2017 01:30:46]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:30:51]		Succesfully loaded the list.
+[14/07/2017 01:31:00]		Analizing  list for changes.
+[14/07/2017 01:31:06]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:31:07]		Succesfully loaded the list.
+[14/07/2017 01:31:10]		Analizing  list for changes.
+[14/07/2017 01:31:16]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:31:19]		Succesfully loaded the list.
+[14/07/2017 01:31:27]		Analizing  list for changes.
+[14/07/2017 01:31:32]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:31:40]		Succesfully loaded the list.
+[14/07/2017 01:31:51]		Analizing  list for changes.
+[14/07/2017 01:31:57]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:32:00]		Succesfully loaded the list.
+[14/07/2017 01:32:02]		Analizing  list for changes.
+[14/07/2017 01:32:08]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 01:32:08]		Exiting the app.
+[14/07/2017 05:28:48]		Starting up program.
+[14/07/2017 05:28:49]		Connected to the internet.
+[14/07/2017 05:28:54]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 05:28:56]		Succesfully loaded the list.
+[14/07/2017 05:29:02]		Analizing  list for changes.
+[14/07/2017 05:29:07]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 05:29:09]		Succesfully loaded the list.
+[14/07/2017 05:29:11]		Analizing  list for changes.
+[14/07/2017 05:29:17]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 05:29:18]		Succesfully loaded the list.
+[14/07/2017 05:29:21]		Analizing  list for changes.
+[14/07/2017 05:29:26]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 05:29:27]		Succesfully loaded the list.
+[14/07/2017 05:29:30]		Analizing  list for changes.
+[14/07/2017 05:29:35]		Exiting the app.
+[14/07/2017 07:03:55]		Starting up program.
+[14/07/2017 07:04:25]		Exiting the app.
+[14/07/2017 07:11:38]		Starting up program.
+[14/07/2017 07:11:44]		Connected to the internet.
+[14/07/2017 07:11:49]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:11:51]		Succesfully loaded the list.
+[14/07/2017 07:11:52]		Analizing  list for changes.
+[14/07/2017 07:11:57]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:12:00]		Succesfully loaded the list.
+[14/07/2017 07:12:02]		Analizing  list for changes.
+[14/07/2017 07:12:07]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:12:08]		Succesfully loaded the list.
+[14/07/2017 07:12:09]		Analizing  list for changes.
+[14/07/2017 07:12:14]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:12:16]		Succesfully loaded the list.
+[14/07/2017 07:12:18]		Analizing  list for changes.
+[14/07/2017 07:12:23]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:12:24]		Succesfully loaded the list.
+[14/07/2017 07:12:25]		Analizing  list for changes.
+[14/07/2017 07:12:31]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:12:32]		Succesfully loaded the list.
+[14/07/2017 07:12:33]		Analizing  list for changes.
+[14/07/2017 07:12:39]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:12:40]		Succesfully loaded the list.
+[14/07/2017 07:12:42]		Analizing  list for changes.
+[14/07/2017 07:12:47]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:12:48]		Succesfully loaded the list.
+[14/07/2017 07:12:50]		Analizing  list for changes.
+[14/07/2017 07:12:50]		The Phantom Of The Opera isn't downloaded. Starting Download.
+[14/07/2017 07:12:50]		Getting youtube links for The Phantom Of The Opera.
+[14/07/2017 07:13:19]		Downloading the audio for The Phantom Of The Opera with video id rBhozE-TkQo.
+[14/07/2017 07:14:05]		The Phantom Of The Opera has been downloaded succesfully. Registering the file.
+[14/07/2017 07:14:09]		Setting tags for The Phantom Of The Opera.
+[14/07/2017 07:14:09]		Tags set.
+[14/07/2017 07:14:09]		Getting the artist from song #%s from deezer.
+[14/07/2017 07:14:09]		Getting the track #2230895 from deezer.
+[14/07/2017 07:14:10]		Succesfully loaded the track.
+[14/07/2017 07:14:11]		Getting the track #2230895 from deezer.
+[14/07/2017 07:14:11]		Succesfully loaded the track.
+[14/07/2017 07:14:12]		Exiting the app.
+[14/07/2017 07:14:49]		Starting up program.
+[14/07/2017 07:14:53]		Connected to the internet.
+[14/07/2017 07:14:58]		Exiting the app.
+[14/07/2017 07:15:03]		Starting up program.
+[14/07/2017 07:15:04]		Connected to the internet.
+[14/07/2017 07:15:09]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:15:13]		Succesfully loaded the list.
+[14/07/2017 07:15:15]		Analizing  list for changes.
+[14/07/2017 07:15:15]		The Phantom Of The Opera isn't downloaded. Starting Download.
+[14/07/2017 07:15:15]		The Phantom Of The Opera has been downloaded succesfully. Registering the file.
+[14/07/2017 07:15:16]		Setting tags for The Phantom Of The Opera.
+[14/07/2017 07:15:16]		Tags set.
+[14/07/2017 07:15:16]		Getting the artist from song #%s from deezer.
+[14/07/2017 07:15:16]		Getting the track #2230895 from deezer.
+[14/07/2017 07:15:17]		Succesfully loaded the track.
+[14/07/2017 07:15:17]		Getting the track #2230895 from deezer.
+[14/07/2017 07:15:18]		Succesfully loaded the track.
+[14/07/2017 07:15:19]		Exiting the app.
+[14/07/2017 07:23:06]		Starting up program.
+[14/07/2017 07:23:07]		Connected to the internet.
+[14/07/2017 07:23:12]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:23:16]		Succesfully loaded the list.
+[14/07/2017 07:23:18]		Analizing  list for changes.
+[14/07/2017 07:23:18]		The Phantom Of The Opera isn't downloaded. Starting Download.
+[14/07/2017 07:23:18]		The Phantom Of The Opera has been downloaded succesfully. Registering the file.
+[14/07/2017 07:23:19]		Setting tags for The Phantom Of The Opera.
+[14/07/2017 07:23:19]		Tags set.
+[14/07/2017 07:23:19]		Adding song 2230895 to the database.
+[14/07/2017 07:23:19]		Getting the artist from song #%s from deezer.
+[14/07/2017 07:23:19]		Getting the track #2230895 from deezer.
+[14/07/2017 07:23:20]		Succesfully loaded the track.
+[14/07/2017 07:23:21]		Getting the track #2230895 from deezer.
+[14/07/2017 07:23:22]		Succesfully loaded the track.
+[14/07/2017 07:23:23]		Linking the song %s the playlist 3338048526.
+[14/07/2017 07:23:23]		Exiting the app.
+[14/07/2017 07:25:03]		Starting up program.
+[14/07/2017 07:25:06]		Connected to the internet.
+[14/07/2017 07:25:11]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:25:16]		Succesfully loaded the list.
+[14/07/2017 07:25:18]		Analizing  list for changes.
+[14/07/2017 07:25:18]		The Phantom Of The Opera isn't downloaded. Starting Download.
+[14/07/2017 07:25:18]		The Phantom Of The Opera has been downloaded succesfully. Registering the file.
+[14/07/2017 07:25:19]		Setting tags for The Phantom Of The Opera.
+[14/07/2017 07:25:19]		Tags set.
+[14/07/2017 07:25:19]		Adding song 2230895 to the database.
+[14/07/2017 07:25:19]		Getting the artist from song #%s from deezer.
+[14/07/2017 07:25:19]		Getting the track #2230895 from deezer.
+[14/07/2017 07:25:20]		Succesfully loaded the track.
+[14/07/2017 07:25:21]		Getting the track #2230895 from deezer.
+[14/07/2017 07:25:22]		Succesfully loaded the track.
+[14/07/2017 07:25:23]		Linking the song %s the playlist 3338048526.
+[14/07/2017 07:25:28]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:25:32]		Succesfully loaded the list.
+[14/07/2017 07:25:35]		Analizing  list for changes.
+[14/07/2017 07:25:40]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:25:43]		Succesfully loaded the list.
+[14/07/2017 07:25:45]		Analizing  list for changes.
+[14/07/2017 07:25:51]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:25:55]		Succesfully loaded the list.
+[14/07/2017 07:25:58]		Analizing  list for changes.
+[14/07/2017 07:26:03]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:26:06]		Succesfully loaded the list.
+[14/07/2017 07:26:08]		Analizing  list for changes.
+[14/07/2017 07:26:14]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:26:16]		Succesfully loaded the list.
+[14/07/2017 07:26:19]		Analizing  list for changes.
+[14/07/2017 07:26:24]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:26:28]		Succesfully loaded the list.
+[14/07/2017 07:26:31]		Analizing  list for changes.
+[14/07/2017 07:26:36]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:26:37]		Succesfully loaded the list.
+[14/07/2017 07:26:39]		Analizing  list for changes.
+[14/07/2017 07:26:45]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:26:46]		Succesfully loaded the list.
+[14/07/2017 07:26:49]		Analizing  list for changes.
+[14/07/2017 07:26:54]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:26:55]		Succesfully loaded the list.
+[14/07/2017 07:26:58]		Analizing  list for changes.
+[14/07/2017 07:27:04]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:27:05]		Succesfully loaded the list.
+[14/07/2017 07:27:08]		Analizing  list for changes.
+[14/07/2017 07:27:08]		Get Lucky isn't downloaded. Starting Download.
+[14/07/2017 07:27:08]		Getting youtube links for Get Lucky.
+[14/07/2017 07:27:34]		Downloading the audio for Get Lucky with video id HXEJjtBouRA.
+[14/07/2017 07:28:17]		Get Lucky has been downloaded succesfully. Registering the file.
+[14/07/2017 07:28:20]		Setting tags for Get Lucky.
+[14/07/2017 07:28:21]		Tags set.
+[14/07/2017 07:28:21]		Adding song 67238735 to the database.
+[14/07/2017 07:28:21]		Getting the artist from song #%s from deezer.
+[14/07/2017 07:28:21]		Getting the track #67238735 from deezer.
+[14/07/2017 07:28:22]		Succesfully loaded the track.
+[14/07/2017 07:28:22]		Getting the track #67238735 from deezer.
+[14/07/2017 07:28:23]		Succesfully loaded the track.
+[14/07/2017 07:28:24]		Linking the song %s the playlist 3338048526.
+[14/07/2017 07:28:30]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:28:34]		Succesfully loaded the list.
+[14/07/2017 07:28:38]		Analizing  list for changes.
+[14/07/2017 07:28:47]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:28:50]		Succesfully loaded the list.
+[14/07/2017 07:28:53]		Analizing  list for changes.
+[14/07/2017 07:28:58]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:29:00]		Succesfully loaded the list.
+[14/07/2017 07:29:04]		Analizing  list for changes.
+[14/07/2017 07:29:09]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:29:12]		Succesfully loaded the list.
+[14/07/2017 07:29:15]		Analizing  list for changes.
+[14/07/2017 07:29:20]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:29:22]		Succesfully loaded the list.
+[14/07/2017 07:29:25]		Analizing  list for changes.
+[14/07/2017 07:29:31]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:29:35]		Succesfully loaded the list.
+[14/07/2017 07:29:38]		Analizing  list for changes.
+[14/07/2017 07:29:44]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:29:46]		Succesfully loaded the list.
+[14/07/2017 07:29:49]		Analizing  list for changes.
+[14/07/2017 07:29:49]		Can't Help Falling In Love isn't on the list anymore. Proceding to delete it.
+[14/07/2017 07:29:49]		Deleting Can't Help Falling In Love.
+[14/07/2017 07:29:49]		Deleted Can't Help Falling In Love.
+[14/07/2017 07:29:55]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:29:58]		Succesfully loaded the list.
+[14/07/2017 07:30:01]		Analizing  list for changes.
+[14/07/2017 07:30:06]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:30:11]		Succesfully loaded the list.
+[14/07/2017 07:30:14]		Analizing  list for changes.
+[14/07/2017 07:30:19]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:30:24]		Succesfully loaded the list.
+[14/07/2017 07:30:27]		Analizing  list for changes.
+[14/07/2017 07:30:32]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:30:36]		Succesfully loaded the list.
+[14/07/2017 07:30:39]		Analizing  list for changes.
+[14/07/2017 07:30:44]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:30:46]		Succesfully loaded the list.
+[14/07/2017 07:30:48]		Analizing  list for changes.
+[14/07/2017 07:30:54]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:30:59]		Succesfully loaded the list.
+[14/07/2017 07:31:01]		Analizing  list for changes.
+[14/07/2017 07:31:06]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:31:10]		Succesfully loaded the list.
+[14/07/2017 07:31:13]		Analizing  list for changes.
+[14/07/2017 07:31:18]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:31:21]		Succesfully loaded the list.
+[14/07/2017 07:31:23]		Analizing  list for changes.
+[14/07/2017 07:31:29]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:31:31]		Succesfully loaded the list.
+[14/07/2017 07:31:34]		Analizing  list for changes.
+[14/07/2017 07:31:39]		Disconnected from internet.
+[14/07/2017 07:31:45]		Connected to the internet.
+[14/07/2017 07:31:50]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:31:53]		Succesfully loaded the list.
+[14/07/2017 07:31:55]		Analizing  list for changes.
+[14/07/2017 07:32:01]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:32:05]		Succesfully loaded the list.
+[14/07/2017 07:32:07]		Analizing  list for changes.
+[14/07/2017 07:32:12]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:32:15]		Succesfully loaded the list.
+[14/07/2017 07:32:17]		Analizing  list for changes.
+[14/07/2017 07:32:22]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:32:25]		Succesfully loaded the list.
+[14/07/2017 07:32:28]		Analizing  list for changes.
+[14/07/2017 07:32:33]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:32:34]		Succesfully loaded the list.
+[14/07/2017 07:32:36]		Analizing  list for changes.
+[14/07/2017 07:32:42]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:32:44]		Succesfully loaded the list.
+[14/07/2017 07:32:47]		Analizing  list for changes.
+[14/07/2017 07:32:52]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:32:53]		Succesfully loaded the list.
+[14/07/2017 07:32:56]		Analizing  list for changes.
+[14/07/2017 07:33:04]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:33:05]		Succesfully loaded the list.
+[14/07/2017 07:33:08]		Analizing  list for changes.
+[14/07/2017 07:33:13]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:33:16]		Succesfully loaded the list.
+[14/07/2017 07:33:18]		Analizing  list for changes.
+[14/07/2017 07:33:24]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:33:25]		Succesfully loaded the list.
+[14/07/2017 07:33:27]		Analizing  list for changes.
+[14/07/2017 07:33:33]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:33:35]		Succesfully loaded the list.
+[14/07/2017 07:33:37]		Analizing  list for changes.
+[14/07/2017 07:33:37]		Believer isn't on the list anymore. Proceding to delete it.
+[14/07/2017 07:33:37]		Deleting Believer.
+[14/07/2017 07:33:37]		Deleted Believer.
+[14/07/2017 07:33:42]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:33:45]		Succesfully loaded the list.
+[14/07/2017 07:33:46]		Analizing  list for changes.
+[14/07/2017 07:33:52]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:33:54]		Succesfully loaded the list.
+[14/07/2017 07:33:56]		Analizing  list for changes.
+[14/07/2017 07:34:01]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:34:04]		Succesfully loaded the list.
+[14/07/2017 07:34:05]		Analizing  list for changes.
+[14/07/2017 07:34:15]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:34:18]		Succesfully loaded the list.
+[14/07/2017 07:34:19]		Analizing  list for changes.
+[14/07/2017 07:34:25]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:34:26]		Succesfully loaded the list.
+[14/07/2017 07:34:27]		Analizing  list for changes.
+[14/07/2017 07:34:33]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:34:37]		Succesfully loaded the list.
+[14/07/2017 07:34:39]		Analizing  list for changes.
+[14/07/2017 07:34:44]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:34:47]		Succesfully loaded the list.
+[14/07/2017 07:34:48]		Analizing  list for changes.
+[14/07/2017 07:34:54]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:34:56]		Succesfully loaded the list.
+[14/07/2017 07:34:58]		Analizing  list for changes.
+[14/07/2017 07:35:03]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:35:06]		Succesfully loaded the list.
+[14/07/2017 07:35:07]		Analizing  list for changes.
+[14/07/2017 07:35:13]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:35:15]		Succesfully loaded the list.
+[14/07/2017 07:35:17]		Analizing  list for changes.
+[14/07/2017 07:35:22]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:35:25]		Succesfully loaded the list.
+[14/07/2017 07:35:26]		Analizing  list for changes.
+[14/07/2017 07:35:31]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:35:34]		Succesfully loaded the list.
+[14/07/2017 07:35:35]		Analizing  list for changes.
+[14/07/2017 07:35:40]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:35:43]		Succesfully loaded the list.
+[14/07/2017 07:35:44]		Analizing  list for changes.
+[14/07/2017 07:35:50]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:35:52]		Succesfully loaded the list.
+[14/07/2017 07:35:54]		Analizing  list for changes.
+[14/07/2017 07:35:59]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:36:00]		Succesfully loaded the list.
+[14/07/2017 07:36:02]		Analizing  list for changes.
+[14/07/2017 07:36:07]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:36:09]		Succesfully loaded the list.
+[14/07/2017 07:36:11]		Analizing  list for changes.
+[14/07/2017 07:36:16]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:36:19]		Succesfully loaded the list.
+[14/07/2017 07:36:20]		Analizing  list for changes.
+[14/07/2017 07:36:26]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:36:28]		Succesfully loaded the list.
+[14/07/2017 07:36:30]		Analizing  list for changes.
+[14/07/2017 07:36:35]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:36:38]		Succesfully loaded the list.
+[14/07/2017 07:36:40]		Analizing  list for changes.
+[14/07/2017 07:36:49]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:36:52]		Succesfully loaded the list.
+[14/07/2017 07:36:54]		Analizing  list for changes.
+[14/07/2017 07:36:59]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:37:01]		Succesfully loaded the list.
+[14/07/2017 07:37:03]		Analizing  list for changes.
+[14/07/2017 07:37:08]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:37:11]		Succesfully loaded the list.
+[14/07/2017 07:37:13]		Analizing  list for changes.
+[14/07/2017 07:37:18]		Exiting the app.
+[14/07/2017 07:37:33]		Starting up program.
+[14/07/2017 07:37:34]		Connected to the internet.
+[14/07/2017 07:37:39]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:37:43]		Succesfully loaded the list.
+[14/07/2017 07:37:44]		Analizing  list for changes.
+[14/07/2017 07:37:49]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:37:52]		Succesfully loaded the list.
+[14/07/2017 07:37:54]		Analizing  list for changes.
+[14/07/2017 07:37:59]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:38:02]		Succesfully loaded the list.
+[14/07/2017 07:38:04]		Analizing  list for changes.
+[14/07/2017 07:38:05]		Take Me To Church isn't downloaded. Starting Download.
+[14/07/2017 07:38:05]		Getting youtube links for Take Me To Church.
+[14/07/2017 07:38:18]		Downloading the audio for Take Me To Church with video id t0imaSCnSuA.
+[14/07/2017 07:44:03]		Starting up program.
+[14/07/2017 07:44:04]		Connected to the internet.
+[14/07/2017 07:44:09]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:44:12]		Succesfully loaded the list.
+[14/07/2017 07:44:14]		Analizing  list for changes.
+[14/07/2017 07:44:14]		Take Me To Church isn't downloaded. Starting Download.
+[14/07/2017 07:44:14]		Getting youtube links for Take Me To Church.
+[14/07/2017 07:44:41]		Downloading the audio for Take Me To Church with video id t0imaSCnSuA.
+[14/07/2017 07:46:15]		Take Me To Church has been downloaded succesfully. Registering the file.
+[14/07/2017 07:46:16]		Setting tags for Take Me To Church.
+[14/07/2017 07:46:16]		Tags set.
+[14/07/2017 07:46:16]		Adding song 76220160 to the database.
+[14/07/2017 07:46:16]		Getting the artist from song #%s from deezer.
+[14/07/2017 07:46:16]		Getting the track #76220160 from deezer.
+[14/07/2017 07:46:17]		Succesfully loaded the track.
+[14/07/2017 07:46:18]		Getting the track #76220160 from deezer.
+[14/07/2017 07:46:20]		Succesfully loaded the track.
+[14/07/2017 07:46:22]		Linking the song %s the playlist 3338048526.
+[14/07/2017 07:46:22]		The Phantom Of The Opera isn't on the list anymore. Proceding to delete it.
+[14/07/2017 07:46:22]		Deleting The Phantom Of The Opera.
+[14/07/2017 07:46:22]		Deleted The Phantom Of The Opera.
+[14/07/2017 07:46:27]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:46:31]		Succesfully loaded the list.
+[14/07/2017 07:46:33]		Analizing  list for changes.
+[14/07/2017 07:46:39]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:46:41]		Succesfully loaded the list.
+[14/07/2017 07:46:43]		Analizing  list for changes.
+[14/07/2017 07:46:49]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:46:52]		Succesfully loaded the list.
+[14/07/2017 07:46:53]		Analizing  list for changes.
+[14/07/2017 07:46:59]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:47:00]		Succesfully loaded the list.
+[14/07/2017 07:47:01]		Analizing  list for changes.
+[14/07/2017 07:47:10]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:47:11]		Succesfully loaded the list.
+[14/07/2017 07:47:13]		Analizing  list for changes.
+[14/07/2017 07:47:18]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:47:19]		Succesfully loaded the list.
+[14/07/2017 07:47:21]		Analizing  list for changes.
+[14/07/2017 07:47:26]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:47:29]		Succesfully loaded the list.
+[14/07/2017 07:47:31]		Analizing  list for changes.
+[14/07/2017 07:47:36]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:47:39]		Succesfully loaded the list.
+[14/07/2017 07:47:41]		Analizing  list for changes.
+[14/07/2017 07:47:46]		Getting the playlist #3338048526 from deezer.
+[14/07/2017 07:47:48]		Succesfully loaded the list.
+[14/07/2017 07:47:50]		Analizing  list for changes.
+[14/07/2017 07:47:55]		Exiting the app.
+[15/07/2017 00:25:22]		Starting up program.
+[15/07/2017 02:29:41]		Connected to the internet.
+[15/07/2017 02:29:46]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:29:48]		Succesfully loaded the list.
+[15/07/2017 02:29:51]		Analizing  list for changes.
+[15/07/2017 02:29:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:29:57]		Succesfully loaded the list.
+[15/07/2017 02:29:59]		Analizing  list for changes.
+[15/07/2017 02:30:05]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:30:06]		Succesfully loaded the list.
+[15/07/2017 02:30:08]		Analizing  list for changes.
+[15/07/2017 02:30:13]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:30:15]		Succesfully loaded the list.
+[15/07/2017 02:30:17]		Analizing  list for changes.
+[15/07/2017 02:30:22]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:30:24]		Succesfully loaded the list.
+[15/07/2017 02:30:33]		Analizing  list for changes.
+[15/07/2017 02:30:43]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:30:44]		Succesfully loaded the list.
+[15/07/2017 02:30:51]		Analizing  list for changes.
+[15/07/2017 02:30:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:31:00]		Succesfully loaded the list.
+[15/07/2017 02:31:02]		Analizing  list for changes.
+[15/07/2017 02:31:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:31:08]		Succesfully loaded the list.
+[15/07/2017 02:31:10]		Analizing  list for changes.
+[15/07/2017 02:31:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:31:17]		Succesfully loaded the list.
+[15/07/2017 02:31:18]		Analizing  list for changes.
+[15/07/2017 02:31:24]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:31:25]		Succesfully loaded the list.
+[15/07/2017 02:31:29]		Analizing  list for changes.
+[15/07/2017 02:31:34]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:31:37]		Succesfully loaded the list.
+[15/07/2017 02:31:43]		Analizing  list for changes.
+[15/07/2017 02:31:48]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:31:51]		Succesfully loaded the list.
+[15/07/2017 02:31:53]		Analizing  list for changes.
+[15/07/2017 02:31:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:32:02]		Succesfully loaded the list.
+[15/07/2017 02:32:07]		Analizing  list for changes.
+[15/07/2017 02:32:12]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:32:14]		Succesfully loaded the list.
+[15/07/2017 02:32:16]		Analizing  list for changes.
+[15/07/2017 02:32:22]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:32:26]		Succesfully loaded the list.
+[15/07/2017 02:32:28]		Analizing  list for changes.
+[15/07/2017 02:32:34]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:32:35]		Succesfully loaded the list.
+[15/07/2017 02:32:43]		Analizing  list for changes.
+[15/07/2017 02:32:48]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:32:51]		Succesfully loaded the list.
+[15/07/2017 02:32:58]		Analizing  list for changes.
+[15/07/2017 02:33:03]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:33:05]		Succesfully loaded the list.
+[15/07/2017 02:33:08]		Analizing  list for changes.
+[15/07/2017 02:33:14]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:33:20]		Succesfully loaded the list.
+[15/07/2017 02:33:22]		Analizing  list for changes.
+[15/07/2017 02:33:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:33:29]		Succesfully loaded the list.
+[15/07/2017 02:33:31]		Analizing  list for changes.
+[15/07/2017 02:33:36]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:33:38]		Succesfully loaded the list.
+[15/07/2017 02:33:45]		Analizing  list for changes.
+[15/07/2017 02:33:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:33:59]		Succesfully loaded the list.
+[15/07/2017 02:34:00]		Analizing  list for changes.
+[15/07/2017 02:34:05]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:34:06]		Succesfully loaded the list.
+[15/07/2017 02:34:08]		Analizing  list for changes.
+[15/07/2017 02:34:13]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:34:17]		Succesfully loaded the list.
+[15/07/2017 02:34:18]		Analizing  list for changes.
+[15/07/2017 02:34:24]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:34:26]		Succesfully loaded the list.
+[15/07/2017 02:34:27]		Analizing  list for changes.
+[15/07/2017 02:34:33]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:34:34]		Succesfully loaded the list.
+[15/07/2017 02:34:36]		Analizing  list for changes.
+[15/07/2017 02:34:42]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:34:48]		Succesfully loaded the list.
+[15/07/2017 02:34:52]		Analizing  list for changes.
+[15/07/2017 02:34:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:35:04]		Succesfully loaded the list.
+[15/07/2017 02:35:06]		Analizing  list for changes.
+[15/07/2017 02:35:11]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:35:12]		Succesfully loaded the list.
+[15/07/2017 02:35:13]		Analizing  list for changes.
+[15/07/2017 02:35:19]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:35:20]		Succesfully loaded the list.
+[15/07/2017 02:35:23]		Analizing  list for changes.
+[15/07/2017 02:35:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:35:30]		Succesfully loaded the list.
+[15/07/2017 02:35:32]		Analizing  list for changes.
+[15/07/2017 02:35:38]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:35:40]		Succesfully loaded the list.
+[15/07/2017 02:35:42]		Analizing  list for changes.
+[15/07/2017 02:35:47]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:35:49]		Succesfully loaded the list.
+[15/07/2017 02:35:51]		Analizing  list for changes.
+[15/07/2017 02:35:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:35:57]		Succesfully loaded the list.
+[15/07/2017 02:35:58]		Analizing  list for changes.
+[15/07/2017 02:36:04]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:36:06]		Succesfully loaded the list.
+[15/07/2017 02:36:08]		Analizing  list for changes.
+[15/07/2017 02:36:13]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:36:14]		Succesfully loaded the list.
+[15/07/2017 02:36:17]		Analizing  list for changes.
+[15/07/2017 02:36:22]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:36:25]		Succesfully loaded the list.
+[15/07/2017 02:36:28]		Analizing  list for changes.
+[15/07/2017 02:36:33]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:36:34]		Succesfully loaded the list.
+[15/07/2017 02:36:37]		Analizing  list for changes.
+[15/07/2017 02:36:42]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:36:43]		Succesfully loaded the list.
+[15/07/2017 02:36:45]		Analizing  list for changes.
+[15/07/2017 02:36:50]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:36:52]		Succesfully loaded the list.
+[15/07/2017 02:36:54]		Analizing  list for changes.
+[15/07/2017 02:36:59]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:37:00]		Succesfully loaded the list.
+[15/07/2017 02:37:01]		Analizing  list for changes.
+[15/07/2017 02:37:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:37:08]		Succesfully loaded the list.
+[15/07/2017 02:37:09]		Analizing  list for changes.
+[15/07/2017 02:37:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:37:15]		Succesfully loaded the list.
+[15/07/2017 02:37:18]		Analizing  list for changes.
+[15/07/2017 02:37:24]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:37:24]		Succesfully loaded the list.
+[15/07/2017 02:37:26]		Analizing  list for changes.
+[15/07/2017 02:37:31]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:37:32]		Succesfully loaded the list.
+[15/07/2017 02:37:34]		Analizing  list for changes.
+[15/07/2017 02:37:39]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:37:40]		Succesfully loaded the list.
+[15/07/2017 02:37:42]		Analizing  list for changes.
+[15/07/2017 02:37:47]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:37:49]		Succesfully loaded the list.
+[15/07/2017 02:37:51]		Analizing  list for changes.
+[15/07/2017 02:37:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:37:58]		Succesfully loaded the list.
+[15/07/2017 02:38:00]		Analizing  list for changes.
+[15/07/2017 02:38:10]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:38:11]		Succesfully loaded the list.
+[15/07/2017 02:38:13]		Analizing  list for changes.
+[15/07/2017 02:38:18]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:38:20]		Succesfully loaded the list.
+[15/07/2017 02:38:21]		Analizing  list for changes.
+[15/07/2017 02:38:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:38:27]		Succesfully loaded the list.
+[15/07/2017 02:38:29]		Analizing  list for changes.
+[15/07/2017 02:38:34]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:38:35]		Succesfully loaded the list.
+[15/07/2017 02:38:39]		Analizing  list for changes.
+[15/07/2017 02:38:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:38:46]		Succesfully loaded the list.
+[15/07/2017 02:38:48]		Analizing  list for changes.
+[15/07/2017 02:38:53]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:38:54]		Succesfully loaded the list.
+[15/07/2017 02:38:56]		Analizing  list for changes.
+[15/07/2017 02:39:02]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:39:08]		Succesfully loaded the list.
+[15/07/2017 02:39:10]		Analizing  list for changes.
+[15/07/2017 02:39:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:39:16]		Succesfully loaded the list.
+[15/07/2017 02:39:20]		Analizing  list for changes.
+[15/07/2017 02:39:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:39:27]		Succesfully loaded the list.
+[15/07/2017 02:39:36]		Analizing  list for changes.
+[15/07/2017 02:39:41]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:39:42]		Succesfully loaded the list.
+[15/07/2017 02:39:53]		Analizing  list for changes.
+[15/07/2017 02:39:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:39:59]		Succesfully loaded the list.
+[15/07/2017 02:40:01]		Analizing  list for changes.
+[15/07/2017 02:40:06]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:40:08]		Succesfully loaded the list.
+[15/07/2017 02:40:11]		Analizing  list for changes.
+[15/07/2017 02:40:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:40:17]		Succesfully loaded the list.
+[15/07/2017 02:40:19]		Analizing  list for changes.
+[15/07/2017 02:40:24]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:40:25]		Succesfully loaded the list.
+[15/07/2017 02:40:27]		Analizing  list for changes.
+[15/07/2017 02:40:32]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:40:35]		Succesfully loaded the list.
+[15/07/2017 02:40:40]		Analizing  list for changes.
+[15/07/2017 02:40:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:40:52]		Succesfully loaded the list.
+[15/07/2017 02:40:55]		Analizing  list for changes.
+[15/07/2017 02:41:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:41:01]		Succesfully loaded the list.
+[15/07/2017 02:41:03]		Analizing  list for changes.
+[15/07/2017 02:41:10]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:41:11]		Succesfully loaded the list.
+[15/07/2017 02:41:19]		Analizing  list for changes.
+[15/07/2017 02:41:25]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:41:31]		Succesfully loaded the list.
+[15/07/2017 02:41:34]		Analizing  list for changes.
+[15/07/2017 02:41:44]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:41:47]		Succesfully loaded the list.
+[15/07/2017 02:41:49]		Analizing  list for changes.
+[15/07/2017 02:41:54]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:41:56]		Succesfully loaded the list.
+[15/07/2017 02:41:58]		Analizing  list for changes.
+[15/07/2017 02:42:03]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:42:04]		Succesfully loaded the list.
+[15/07/2017 02:42:06]		Analizing  list for changes.
+[15/07/2017 02:42:11]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:42:13]		Succesfully loaded the list.
+[15/07/2017 02:42:15]		Analizing  list for changes.
+[15/07/2017 02:42:20]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:42:22]		Succesfully loaded the list.
+[15/07/2017 02:42:24]		Analizing  list for changes.
+[15/07/2017 02:42:29]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:42:35]		Succesfully loaded the list.
+[15/07/2017 02:42:37]		Analizing  list for changes.
+[15/07/2017 02:42:42]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:42:43]		Succesfully loaded the list.
+[15/07/2017 02:42:45]		Analizing  list for changes.
+[15/07/2017 02:42:50]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:42:56]		Succesfully loaded the list.
+[15/07/2017 02:42:58]		Analizing  list for changes.
+[15/07/2017 02:43:04]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:43:04]		Succesfully loaded the list.
+[15/07/2017 02:43:06]		Analizing  list for changes.
+[15/07/2017 02:43:11]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:43:13]		Succesfully loaded the list.
+[15/07/2017 02:43:15]		Analizing  list for changes.
+[15/07/2017 02:43:20]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:43:21]		Succesfully loaded the list.
+[15/07/2017 02:43:23]		Analizing  list for changes.
+[15/07/2017 02:43:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:43:32]		Succesfully loaded the list.
+[15/07/2017 02:43:34]		Analizing  list for changes.
+[15/07/2017 02:43:39]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:43:42]		Succesfully loaded the list.
+[15/07/2017 02:43:44]		Analizing  list for changes.
+[15/07/2017 02:43:49]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:43:51]		Succesfully loaded the list.
+[15/07/2017 02:43:53]		Analizing  list for changes.
+[15/07/2017 02:43:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:44:01]		Succesfully loaded the list.
+[15/07/2017 02:44:04]		Analizing  list for changes.
+[15/07/2017 02:44:10]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:44:11]		Succesfully loaded the list.
+[15/07/2017 02:44:20]		Analizing  list for changes.
+[15/07/2017 02:44:25]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:44:26]		Succesfully loaded the list.
+[15/07/2017 02:44:28]		Analizing  list for changes.
+[15/07/2017 02:44:33]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:44:40]		Succesfully loaded the list.
+[15/07/2017 02:44:42]		Analizing  list for changes.
+[15/07/2017 02:44:47]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:44:48]		Succesfully loaded the list.
+[15/07/2017 02:44:50]		Analizing  list for changes.
+[15/07/2017 02:44:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:44:58]		Succesfully loaded the list.
+[15/07/2017 02:45:00]		Analizing  list for changes.
+[15/07/2017 02:45:05]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:45:07]		Succesfully loaded the list.
+[15/07/2017 02:45:10]		Analizing  list for changes.
+[15/07/2017 02:45:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:45:17]		Succesfully loaded the list.
+[15/07/2017 02:45:20]		Analizing  list for changes.
+[15/07/2017 02:45:25]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:45:27]		Succesfully loaded the list.
+[15/07/2017 02:45:29]		Analizing  list for changes.
+[15/07/2017 02:45:35]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:45:36]		Succesfully loaded the list.
+[15/07/2017 02:45:44]		Analizing  list for changes.
+[15/07/2017 02:45:49]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:45:54]		Succesfully loaded the list.
+[15/07/2017 02:45:56]		Analizing  list for changes.
+[15/07/2017 02:46:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:46:03]		Succesfully loaded the list.
+[15/07/2017 02:46:05]		Analizing  list for changes.
+[15/07/2017 02:46:11]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:46:17]		Succesfully loaded the list.
+[15/07/2017 02:46:19]		Analizing  list for changes.
+[15/07/2017 02:46:24]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:46:27]		Succesfully loaded the list.
+[15/07/2017 02:46:28]		Analizing  list for changes.
+[15/07/2017 02:46:34]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:46:37]		Succesfully loaded the list.
+[15/07/2017 02:46:38]		Analizing  list for changes.
+[15/07/2017 02:46:44]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:46:50]		Succesfully loaded the list.
+[15/07/2017 02:46:53]		Analizing  list for changes.
+[15/07/2017 02:46:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:47:00]		Succesfully loaded the list.
+[15/07/2017 02:47:02]		Analizing  list for changes.
+[15/07/2017 02:47:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:47:10]		Succesfully loaded the list.
+[15/07/2017 02:47:11]		Analizing  list for changes.
+[15/07/2017 02:47:17]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:47:20]		Succesfully loaded the list.
+[15/07/2017 02:47:22]		Analizing  list for changes.
+[15/07/2017 02:47:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:47:32]		Succesfully loaded the list.
+[15/07/2017 02:47:34]		Analizing  list for changes.
+[15/07/2017 02:47:40]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:47:42]		Succesfully loaded the list.
+[15/07/2017 02:47:51]		Analizing  list for changes.
+[15/07/2017 02:47:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:47:58]		Succesfully loaded the list.
+[15/07/2017 02:48:00]		Analizing  list for changes.
+[15/07/2017 02:48:05]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:48:11]		Succesfully loaded the list.
+[15/07/2017 02:48:29]		Analizing  list for changes.
+[15/07/2017 02:48:35]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:48:37]		Succesfully loaded the list.
+[15/07/2017 02:48:39]		Analizing  list for changes.
+[15/07/2017 02:48:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:48:47]		Succesfully loaded the list.
+[15/07/2017 02:48:50]		Analizing  list for changes.
+[15/07/2017 02:48:55]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:48:57]		Succesfully loaded the list.
+[15/07/2017 02:48:59]		Analizing  list for changes.
+[15/07/2017 02:49:04]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:49:07]		Succesfully loaded the list.
+[15/07/2017 02:49:15]		Analizing  list for changes.
+[15/07/2017 02:49:21]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:49:23]		Succesfully loaded the list.
+[15/07/2017 02:49:25]		Analizing  list for changes.
+[15/07/2017 02:49:30]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:49:32]		Succesfully loaded the list.
+[15/07/2017 02:49:34]		Analizing  list for changes.
+[15/07/2017 02:49:39]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:49:41]		Succesfully loaded the list.
+[15/07/2017 02:49:43]		Analizing  list for changes.
+[15/07/2017 02:49:48]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:49:50]		Succesfully loaded the list.
+[15/07/2017 02:49:51]		Analizing  list for changes.
+[15/07/2017 02:49:57]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:49:59]		Succesfully loaded the list.
+[15/07/2017 02:50:06]		Analizing  list for changes.
+[15/07/2017 02:50:11]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:50:13]		Succesfully loaded the list.
+[15/07/2017 02:50:15]		Analizing  list for changes.
+[15/07/2017 02:50:21]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:50:22]		Succesfully loaded the list.
+[15/07/2017 02:50:24]		Analizing  list for changes.
+[15/07/2017 02:50:29]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:50:35]		Succesfully loaded the list.
+[15/07/2017 02:50:37]		Analizing  list for changes.
+[15/07/2017 02:50:42]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:50:43]		Succesfully loaded the list.
+[15/07/2017 02:50:45]		Analizing  list for changes.
+[15/07/2017 02:50:50]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:50:51]		Succesfully loaded the list.
+[15/07/2017 02:50:54]		Analizing  list for changes.
+[15/07/2017 02:50:59]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:51:06]		Succesfully loaded the list.
+[15/07/2017 02:51:08]		Analizing  list for changes.
+[15/07/2017 02:51:14]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:51:21]		Succesfully loaded the list.
+[15/07/2017 02:51:24]		Analizing  list for changes.
+[15/07/2017 02:51:29]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:51:30]		Succesfully loaded the list.
+[15/07/2017 02:51:32]		Analizing  list for changes.
+[15/07/2017 02:51:42]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:51:45]		Succesfully loaded the list.
+[15/07/2017 02:51:46]		Analizing  list for changes.
+[15/07/2017 02:51:51]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:51:53]		Succesfully loaded the list.
+[15/07/2017 02:51:55]		Analizing  list for changes.
+[15/07/2017 02:52:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:52:02]		Succesfully loaded the list.
+[15/07/2017 02:52:05]		Analizing  list for changes.
+[15/07/2017 02:52:10]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:52:12]		Succesfully loaded the list.
+[15/07/2017 02:52:14]		Analizing  list for changes.
+[15/07/2017 02:52:19]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:52:21]		Succesfully loaded the list.
+[15/07/2017 02:52:24]		Analizing  list for changes.
+[15/07/2017 02:52:29]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:52:33]		Succesfully loaded the list.
+[15/07/2017 02:52:35]		Analizing  list for changes.
+[15/07/2017 02:52:40]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:52:43]		Succesfully loaded the list.
+[15/07/2017 02:52:49]		Analizing  list for changes.
+[15/07/2017 02:52:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:53:01]		Succesfully loaded the list.
+[15/07/2017 02:53:06]		Analizing  list for changes.
+[15/07/2017 02:53:12]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:53:17]		Succesfully loaded the list.
+[15/07/2017 02:53:22]		Analizing  list for changes.
+[15/07/2017 02:53:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:53:29]		Succesfully loaded the list.
+[15/07/2017 02:53:31]		Analizing  list for changes.
+[15/07/2017 02:53:36]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:53:38]		Succesfully loaded the list.
+[15/07/2017 02:53:40]		Analizing  list for changes.
+[15/07/2017 02:53:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:53:47]		Succesfully loaded the list.
+[15/07/2017 02:53:52]		Analizing  list for changes.
+[15/07/2017 02:53:57]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:53:59]		Succesfully loaded the list.
+[15/07/2017 02:54:02]		Analizing  list for changes.
+[15/07/2017 02:54:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:54:09]		Succesfully loaded the list.
+[15/07/2017 02:54:12]		Analizing  list for changes.
+[15/07/2017 02:54:17]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:54:19]		Succesfully loaded the list.
+[15/07/2017 02:54:23]		Analizing  list for changes.
+[15/07/2017 02:54:33]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:54:35]		Succesfully loaded the list.
+[15/07/2017 02:54:37]		Analizing  list for changes.
+[15/07/2017 02:54:42]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:54:43]		Succesfully loaded the list.
+[15/07/2017 02:54:46]		Analizing  list for changes.
+[15/07/2017 02:54:51]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:54:52]		Succesfully loaded the list.
+[15/07/2017 02:54:56]		Analizing  list for changes.
+[15/07/2017 02:55:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:55:03]		Succesfully loaded the list.
+[15/07/2017 02:55:05]		Analizing  list for changes.
+[15/07/2017 02:55:10]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:55:12]		Succesfully loaded the list.
+[15/07/2017 02:55:14]		Analizing  list for changes.
+[15/07/2017 02:55:19]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:55:21]		Succesfully loaded the list.
+[15/07/2017 02:55:22]		Analizing  list for changes.
+[15/07/2017 02:55:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:55:29]		Succesfully loaded the list.
+[15/07/2017 02:55:31]		Analizing  list for changes.
+[15/07/2017 02:55:36]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:55:38]		Succesfully loaded the list.
+[15/07/2017 02:55:40]		Analizing  list for changes.
+[15/07/2017 02:55:46]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:55:48]		Succesfully loaded the list.
+[15/07/2017 02:55:50]		Analizing  list for changes.
+[15/07/2017 02:55:55]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:55:57]		Succesfully loaded the list.
+[15/07/2017 02:55:59]		Analizing  list for changes.
+[15/07/2017 02:56:09]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:56:11]		Succesfully loaded the list.
+[15/07/2017 02:56:12]		Analizing  list for changes.
+[15/07/2017 02:56:18]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:56:19]		Succesfully loaded the list.
+[15/07/2017 02:56:21]		Analizing  list for changes.
+[15/07/2017 02:56:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:56:30]		Succesfully loaded the list.
+[15/07/2017 02:56:33]		Analizing  list for changes.
+[15/07/2017 02:56:38]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:56:41]		Succesfully loaded the list.
+[15/07/2017 02:56:42]		Analizing  list for changes.
+[15/07/2017 02:56:48]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:56:49]		Succesfully loaded the list.
+[15/07/2017 02:56:51]		Analizing  list for changes.
+[15/07/2017 02:56:57]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:56:58]		Succesfully loaded the list.
+[15/07/2017 02:57:00]		Analizing  list for changes.
+[15/07/2017 02:57:05]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:57:07]		Succesfully loaded the list.
+[15/07/2017 02:57:09]		Analizing  list for changes.
+[15/07/2017 02:57:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:57:17]		Succesfully loaded the list.
+[15/07/2017 02:57:19]		Analizing  list for changes.
+[15/07/2017 02:57:24]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:57:27]		Succesfully loaded the list.
+[15/07/2017 02:57:30]		Analizing  list for changes.
+[15/07/2017 02:57:35]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:57:37]		Succesfully loaded the list.
+[15/07/2017 02:57:39]		Analizing  list for changes.
+[15/07/2017 02:57:44]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:57:50]		Succesfully loaded the list.
+[15/07/2017 02:57:53]		Analizing  list for changes.
+[15/07/2017 02:57:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:58:05]		Succesfully loaded the list.
+[15/07/2017 02:58:09]		Analizing  list for changes.
+[15/07/2017 02:58:14]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:58:21]		Succesfully loaded the list.
+[15/07/2017 02:58:23]		Analizing  list for changes.
+[15/07/2017 02:58:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:58:30]		Succesfully loaded the list.
+[15/07/2017 02:58:32]		Analizing  list for changes.
+[15/07/2017 02:58:38]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:58:43]		Succesfully loaded the list.
+[15/07/2017 02:58:45]		Analizing  list for changes.
+[15/07/2017 02:58:51]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:58:52]		Succesfully loaded the list.
+[15/07/2017 02:58:53]		Analizing  list for changes.
+[15/07/2017 02:59:00]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:59:02]		Succesfully loaded the list.
+[15/07/2017 02:59:04]		Analizing  list for changes.
+[15/07/2017 02:59:09]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:59:13]		Succesfully loaded the list.
+[15/07/2017 02:59:17]		Analizing  list for changes.
+[15/07/2017 02:59:22]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:59:25]		Succesfully loaded the list.
+[15/07/2017 02:59:31]		Analizing  list for changes.
+[15/07/2017 02:59:37]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:59:39]		Succesfully loaded the list.
+[15/07/2017 02:59:49]		Analizing  list for changes.
+[15/07/2017 02:59:54]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 02:59:57]		Succesfully loaded the list.
+[15/07/2017 02:59:59]		Analizing  list for changes.
+[15/07/2017 03:00:05]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:00:08]		Succesfully loaded the list.
+[15/07/2017 03:00:10]		Analizing  list for changes.
+[15/07/2017 03:00:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:00:17]		Succesfully loaded the list.
+[15/07/2017 03:00:19]		Analizing  list for changes.
+[15/07/2017 03:00:25]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:00:26]		Succesfully loaded the list.
+[15/07/2017 03:00:30]		Analizing  list for changes.
+[15/07/2017 03:00:35]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:00:37]		Succesfully loaded the list.
+[15/07/2017 03:00:39]		Analizing  list for changes.
+[15/07/2017 03:00:44]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:00:47]		Succesfully loaded the list.
+[15/07/2017 03:00:49]		Analizing  list for changes.
+[15/07/2017 03:00:54]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:00:56]		Succesfully loaded the list.
+[15/07/2017 03:00:58]		Analizing  list for changes.
+[15/07/2017 03:01:04]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:01:07]		Succesfully loaded the list.
+[15/07/2017 03:01:10]		Analizing  list for changes.
+[15/07/2017 03:01:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:01:18]		Succesfully loaded the list.
+[15/07/2017 03:01:19]		Analizing  list for changes.
+[15/07/2017 03:01:25]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:01:27]		Succesfully loaded the list.
+[15/07/2017 03:01:29]		Analizing  list for changes.
+[15/07/2017 03:01:34]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:01:37]		Succesfully loaded the list.
+[15/07/2017 03:01:43]		Analizing  list for changes.
+[15/07/2017 03:01:49]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:01:50]		Succesfully loaded the list.
+[15/07/2017 03:01:52]		Analizing  list for changes.
+[15/07/2017 03:01:57]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:01:59]		Succesfully loaded the list.
+[15/07/2017 03:02:06]		Analizing  list for changes.
+[15/07/2017 03:02:12]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:02:13]		Succesfully loaded the list.
+[15/07/2017 03:02:15]		Analizing  list for changes.
+[15/07/2017 03:02:20]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:02:23]		Succesfully loaded the list.
+[15/07/2017 03:02:24]		Analizing  list for changes.
+[15/07/2017 03:02:30]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:02:36]		Succesfully loaded the list.
+[15/07/2017 03:02:37]		Analizing  list for changes.
+[15/07/2017 03:02:42]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:02:51]		Succesfully loaded the list.
+[15/07/2017 03:02:53]		Analizing  list for changes.
+[15/07/2017 03:02:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:02:59]		Succesfully loaded the list.
+[15/07/2017 03:03:01]		Analizing  list for changes.
+[15/07/2017 03:03:06]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:03:07]		Succesfully loaded the list.
+[15/07/2017 03:03:09]		Analizing  list for changes.
+[15/07/2017 03:03:14]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:03:21]		Succesfully loaded the list.
+[15/07/2017 03:03:22]		Analizing  list for changes.
+[15/07/2017 03:03:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:03:32]		Succesfully loaded the list.
+[15/07/2017 03:03:34]		Analizing  list for changes.
+[15/07/2017 03:03:39]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:03:41]		Succesfully loaded the list.
+[15/07/2017 03:03:42]		Analizing  list for changes.
+[15/07/2017 03:03:48]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:03:49]		Succesfully loaded the list.
+[15/07/2017 03:03:56]		Analizing  list for changes.
+[15/07/2017 03:04:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:04:08]		Succesfully loaded the list.
+[15/07/2017 03:04:16]		Analizing  list for changes.
+[15/07/2017 03:04:21]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:04:24]		Succesfully loaded the list.
+[15/07/2017 03:04:25]		Analizing  list for changes.
+[15/07/2017 03:04:30]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:04:37]		Succesfully loaded the list.
+[15/07/2017 03:04:38]		Analizing  list for changes.
+[15/07/2017 03:04:44]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:04:47]		Succesfully loaded the list.
+[15/07/2017 03:04:51]		Analizing  list for changes.
+[15/07/2017 03:04:57]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:04:59]		Succesfully loaded the list.
+[15/07/2017 03:05:06]		Analizing  list for changes.
+[15/07/2017 03:05:11]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:05:13]		Succesfully loaded the list.
+[15/07/2017 03:05:14]		Analizing  list for changes.
+[15/07/2017 03:05:20]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:05:22]		Succesfully loaded the list.
+[15/07/2017 03:05:23]		Analizing  list for changes.
+[15/07/2017 03:05:29]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:05:31]		Succesfully loaded the list.
+[15/07/2017 03:05:33]		Analizing  list for changes.
+[15/07/2017 03:05:38]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:05:41]		Succesfully loaded the list.
+[15/07/2017 03:05:42]		Analizing  list for changes.
+[15/07/2017 03:05:47]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:05:49]		Succesfully loaded the list.
+[15/07/2017 03:05:51]		Analizing  list for changes.
+[15/07/2017 03:05:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:05:58]		Succesfully loaded the list.
+[15/07/2017 03:05:59]		Analizing  list for changes.
+[15/07/2017 03:06:04]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:06:10]		Succesfully loaded the list.
+[15/07/2017 03:06:12]		Analizing  list for changes.
+[15/07/2017 03:06:17]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:06:19]		Succesfully loaded the list.
+[15/07/2017 03:06:21]		Analizing  list for changes.
+[15/07/2017 03:06:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:06:39]		Succesfully loaded the list.
+[15/07/2017 03:06:41]		Analizing  list for changes.
+[15/07/2017 03:06:47]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:06:50]		Succesfully loaded the list.
+[15/07/2017 03:06:52]		Analizing  list for changes.
+[15/07/2017 03:06:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:07:05]		Succesfully loaded the list.
+[15/07/2017 03:07:08]		Analizing  list for changes.
+[15/07/2017 03:07:13]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:07:18]		Succesfully loaded the list.
+[15/07/2017 03:07:19]		Analizing  list for changes.
+[15/07/2017 03:07:30]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:07:32]		Succesfully loaded the list.
+[15/07/2017 03:07:34]		Analizing  list for changes.
+[15/07/2017 03:07:39]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:07:42]		Succesfully loaded the list.
+[15/07/2017 03:07:47]		Analizing  list for changes.
+[15/07/2017 03:07:52]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:07:54]		Succesfully loaded the list.
+[15/07/2017 03:07:56]		Analizing  list for changes.
+[15/07/2017 03:08:03]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:08:05]		Succesfully loaded the list.
+[15/07/2017 03:08:06]		Analizing  list for changes.
+[15/07/2017 03:08:12]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:08:14]		Succesfully loaded the list.
+[15/07/2017 03:08:16]		Analizing  list for changes.
+[15/07/2017 03:08:21]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:08:28]		Succesfully loaded the list.
+[15/07/2017 03:08:29]		Analizing  list for changes.
+[15/07/2017 03:08:35]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:08:39]		Succesfully loaded the list.
+[15/07/2017 03:08:41]		Analizing  list for changes.
+[15/07/2017 03:08:46]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:08:48]		Succesfully loaded the list.
+[15/07/2017 03:08:51]		Analizing  list for changes.
+[15/07/2017 03:08:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:08:58]		Succesfully loaded the list.
+[15/07/2017 03:09:00]		Analizing  list for changes.
+[15/07/2017 03:09:06]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:09:09]		Succesfully loaded the list.
+[15/07/2017 03:09:11]		Analizing  list for changes.
+[15/07/2017 03:09:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:09:18]		Succesfully loaded the list.
+[15/07/2017 03:09:21]		Analizing  list for changes.
+[15/07/2017 03:09:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:09:30]		Succesfully loaded the list.
+[15/07/2017 03:09:37]		Analizing  list for changes.
+[15/07/2017 03:09:43]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:09:46]		Succesfully loaded the list.
+[15/07/2017 03:09:48]		Analizing  list for changes.
+[15/07/2017 03:09:53]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:09:55]		Succesfully loaded the list.
+[15/07/2017 03:09:57]		Analizing  list for changes.
+[15/07/2017 03:10:03]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:10:05]		Succesfully loaded the list.
+[15/07/2017 03:10:09]		Analizing  list for changes.
+[15/07/2017 03:10:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:10:17]		Succesfully loaded the list.
+[15/07/2017 03:10:21]		Analizing  list for changes.
+[15/07/2017 03:10:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:10:29]		Succesfully loaded the list.
+[15/07/2017 03:10:33]		Analizing  list for changes.
+[15/07/2017 03:10:38]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:10:40]		Succesfully loaded the list.
+[15/07/2017 03:10:43]		Analizing  list for changes.
+[15/07/2017 03:10:48]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:10:49]		Succesfully loaded the list.
+[15/07/2017 03:10:57]		Analizing  list for changes.
+[15/07/2017 03:11:03]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:11:05]		Succesfully loaded the list.
+[15/07/2017 03:11:12]		Analizing  list for changes.
+[15/07/2017 03:11:17]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:11:20]		Succesfully loaded the list.
+[15/07/2017 03:11:22]		Analizing  list for changes.
+[15/07/2017 03:11:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:11:30]		Succesfully loaded the list.
+[15/07/2017 03:11:32]		Analizing  list for changes.
+[15/07/2017 03:11:37]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:11:40]		Succesfully loaded the list.
+[15/07/2017 03:11:44]		Analizing  list for changes.
+[15/07/2017 03:11:49]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:11:50]		Succesfully loaded the list.
+[15/07/2017 03:11:53]		Analizing  list for changes.
+[15/07/2017 03:11:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:12:02]		Succesfully loaded the list.
+[15/07/2017 03:12:06]		Analizing  list for changes.
+[15/07/2017 03:12:11]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:12:13]		Succesfully loaded the list.
+[15/07/2017 03:12:15]		Analizing  list for changes.
+[15/07/2017 03:12:21]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:12:24]		Succesfully loaded the list.
+[15/07/2017 03:12:25]		Analizing  list for changes.
+[15/07/2017 03:12:31]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:12:33]		Succesfully loaded the list.
+[15/07/2017 03:12:35]		Analizing  list for changes.
+[15/07/2017 03:12:41]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:12:44]		Succesfully loaded the list.
+[15/07/2017 03:12:48]		Analizing  list for changes.
+[15/07/2017 03:12:54]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:12:56]		Succesfully loaded the list.
+[15/07/2017 03:12:59]		Analizing  list for changes.
+[15/07/2017 03:13:05]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:13:11]		Succesfully loaded the list.
+[15/07/2017 03:13:14]		Analizing  list for changes.
+[15/07/2017 03:13:19]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:13:21]		Succesfully loaded the list.
+[15/07/2017 03:13:23]		Analizing  list for changes.
+[15/07/2017 03:13:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:13:39]		Succesfully loaded the list.
+[15/07/2017 03:13:40]		Analizing  list for changes.
+[15/07/2017 03:13:46]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:13:48]		Succesfully loaded the list.
+[15/07/2017 03:13:50]		Analizing  list for changes.
+[15/07/2017 03:13:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:14:09]		Succesfully loaded the list.
+[15/07/2017 03:14:11]		Analizing  list for changes.
+[15/07/2017 03:14:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:14:22]		Succesfully loaded the list.
+[15/07/2017 03:14:24]		Analizing  list for changes.
+[15/07/2017 03:14:29]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:14:37]		Succesfully loaded the list.
+[15/07/2017 03:14:39]		Analizing  list for changes.
+[15/07/2017 03:14:44]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:14:51]		Succesfully loaded the list.
+[15/07/2017 03:15:03]		Analizing  list for changes.
+[15/07/2017 03:15:09]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:15:12]		Succesfully loaded the list.
+[15/07/2017 03:15:14]		Analizing  list for changes.
+[15/07/2017 03:15:19]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:15:22]		Succesfully loaded the list.
+[15/07/2017 03:15:25]		Analizing  list for changes.
+[15/07/2017 03:15:30]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:15:33]		Succesfully loaded the list.
+[15/07/2017 03:15:36]		Analizing  list for changes.
+[15/07/2017 03:15:41]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:15:43]		Succesfully loaded the list.
+[15/07/2017 03:15:46]		Analizing  list for changes.
+[15/07/2017 03:15:51]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:15:55]		Succesfully loaded the list.
+[15/07/2017 03:15:58]		Analizing  list for changes.
+[15/07/2017 03:16:03]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:16:05]		Succesfully loaded the list.
+[15/07/2017 03:16:10]		Analizing  list for changes.
+[15/07/2017 03:16:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:16:17]		Succesfully loaded the list.
+[15/07/2017 03:16:19]		Analizing  list for changes.
+[15/07/2017 03:16:24]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:16:26]		Succesfully loaded the list.
+[15/07/2017 03:16:28]		Analizing  list for changes.
+[15/07/2017 03:16:33]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:16:34]		Succesfully loaded the list.
+[15/07/2017 03:16:36]		Analizing  list for changes.
+[15/07/2017 03:16:41]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:16:44]		Succesfully loaded the list.
+[15/07/2017 03:16:46]		Analizing  list for changes.
+[15/07/2017 03:16:52]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:16:53]		Succesfully loaded the list.
+[15/07/2017 03:16:54]		Analizing  list for changes.
+[15/07/2017 03:17:00]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:17:08]		Succesfully loaded the list.
+[15/07/2017 03:17:10]		Analizing  list for changes.
+[15/07/2017 03:17:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:17:18]		Succesfully loaded the list.
+[15/07/2017 03:17:22]		Analizing  list for changes.
+[15/07/2017 03:17:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:17:34]		Succesfully loaded the list.
+[15/07/2017 03:17:36]		Analizing  list for changes.
+[15/07/2017 03:17:42]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:17:44]		Succesfully loaded the list.
+[15/07/2017 03:17:47]		Analizing  list for changes.
+[15/07/2017 03:17:52]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:17:55]		Succesfully loaded the list.
+[15/07/2017 03:17:58]		Analizing  list for changes.
+[15/07/2017 03:18:03]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:18:06]		Succesfully loaded the list.
+[15/07/2017 03:18:08]		Analizing  list for changes.
+[15/07/2017 03:18:13]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:18:16]		Succesfully loaded the list.
+[15/07/2017 03:18:18]		Analizing  list for changes.
+[15/07/2017 03:18:23]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:18:25]		Succesfully loaded the list.
+[15/07/2017 03:18:27]		Analizing  list for changes.
+[15/07/2017 03:18:32]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:18:34]		Succesfully loaded the list.
+[15/07/2017 03:18:37]		Analizing  list for changes.
+[15/07/2017 03:18:42]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:18:43]		Succesfully loaded the list.
+[15/07/2017 03:18:44]		Analizing  list for changes.
+[15/07/2017 03:18:49]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:18:50]		Succesfully loaded the list.
+[15/07/2017 03:18:53]		Analizing  list for changes.
+[15/07/2017 03:19:03]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:19:05]		Succesfully loaded the list.
+[15/07/2017 03:19:07]		Analizing  list for changes.
+[15/07/2017 03:19:12]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:19:14]		Succesfully loaded the list.
+[15/07/2017 03:19:15]		Analizing  list for changes.
+[15/07/2017 03:19:21]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:19:22]		Succesfully loaded the list.
+[15/07/2017 03:19:24]		Analizing  list for changes.
+[15/07/2017 03:19:29]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:19:36]		Succesfully loaded the list.
+[15/07/2017 03:19:39]		Analizing  list for changes.
+[15/07/2017 03:19:44]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:19:47]		Succesfully loaded the list.
+[15/07/2017 03:19:54]		Analizing  list for changes.
+[15/07/2017 03:19:59]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:20:02]		Succesfully loaded the list.
+[15/07/2017 03:20:04]		Analizing  list for changes.
+[15/07/2017 03:20:09]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:20:10]		Succesfully loaded the list.
+[15/07/2017 03:20:12]		Analizing  list for changes.
+[15/07/2017 03:20:17]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:20:20]		Succesfully loaded the list.
+[15/07/2017 03:20:23]		Analizing  list for changes.
+[15/07/2017 03:20:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:20:32]		Succesfully loaded the list.
+[15/07/2017 03:20:34]		Analizing  list for changes.
+[15/07/2017 03:20:39]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:20:41]		Succesfully loaded the list.
+[15/07/2017 03:20:43]		Analizing  list for changes.
+[15/07/2017 03:20:49]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:20:50]		Succesfully loaded the list.
+[15/07/2017 03:20:53]		Analizing  list for changes.
+[15/07/2017 03:20:59]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:21:02]		Succesfully loaded the list.
+[15/07/2017 03:21:15]		Analizing  list for changes.
+[15/07/2017 03:21:20]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:21:22]		Succesfully loaded the list.
+[15/07/2017 03:21:25]		Analizing  list for changes.
+[15/07/2017 03:21:31]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:21:33]		Succesfully loaded the list.
+[15/07/2017 03:21:36]		Analizing  list for changes.
+[15/07/2017 03:21:41]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:21:43]		Succesfully loaded the list.
+[15/07/2017 03:21:45]		Analizing  list for changes.
+[15/07/2017 03:21:51]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:22:11]		[Error] Couldn't get the list.
+[15/07/2017 03:22:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:22:19]		Succesfully loaded the list.
+[15/07/2017 03:22:22]		Analizing  list for changes.
+[15/07/2017 03:22:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:22:29]		Succesfully loaded the list.
+[15/07/2017 03:22:31]		Analizing  list for changes.
+[15/07/2017 03:22:36]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:22:37]		Succesfully loaded the list.
+[15/07/2017 03:22:39]		Analizing  list for changes.
+[15/07/2017 03:22:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:22:50]		Succesfully loaded the list.
+[15/07/2017 03:22:54]		Analizing  list for changes.
+[15/07/2017 03:22:59]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:23:00]		Succesfully loaded the list.
+[15/07/2017 03:23:02]		Analizing  list for changes.
+[15/07/2017 03:23:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:23:10]		Succesfully loaded the list.
+[15/07/2017 03:23:12]		Analizing  list for changes.
+[15/07/2017 03:23:17]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:23:20]		Succesfully loaded the list.
+[15/07/2017 03:23:21]		Analizing  list for changes.
+[15/07/2017 03:23:32]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:23:34]		Succesfully loaded the list.
+[15/07/2017 03:23:36]		Analizing  list for changes.
+[15/07/2017 03:23:41]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:23:42]		Succesfully loaded the list.
+[15/07/2017 03:23:44]		Analizing  list for changes.
+[15/07/2017 03:23:49]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:23:52]		Succesfully loaded the list.
+[15/07/2017 03:23:54]		Analizing  list for changes.
+[15/07/2017 03:23:59]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:24:05]		Succesfully loaded the list.
+[15/07/2017 03:24:08]		Analizing  list for changes.
+[15/07/2017 03:24:14]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:24:17]		Succesfully loaded the list.
+[15/07/2017 03:24:20]		Analizing  list for changes.
+[15/07/2017 03:24:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:24:27]		Succesfully loaded the list.
+[15/07/2017 03:24:31]		Analizing  list for changes.
+[15/07/2017 03:24:36]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:24:38]		Succesfully loaded the list.
+[15/07/2017 03:24:40]		Analizing  list for changes.
+[15/07/2017 03:24:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:24:48]		Succesfully loaded the list.
+[15/07/2017 03:24:50]		Analizing  list for changes.
+[15/07/2017 03:24:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:24:58]		Succesfully loaded the list.
+[15/07/2017 03:25:00]		Analizing  list for changes.
+[15/07/2017 03:25:06]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:25:08]		Succesfully loaded the list.
+[15/07/2017 03:25:11]		Analizing  list for changes.
+[15/07/2017 03:25:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:25:18]		Succesfully loaded the list.
+[15/07/2017 03:25:21]		Analizing  list for changes.
+[15/07/2017 03:25:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:25:28]		Succesfully loaded the list.
+[15/07/2017 03:25:30]		Analizing  list for changes.
+[15/07/2017 03:25:35]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:25:36]		Succesfully loaded the list.
+[15/07/2017 03:25:39]		Analizing  list for changes.
+[15/07/2017 03:25:44]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:25:51]		Succesfully loaded the list.
+[15/07/2017 03:25:53]		Analizing  list for changes.
+[15/07/2017 03:25:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:26:05]		Succesfully loaded the list.
+[15/07/2017 03:26:07]		Analizing  list for changes.
+[15/07/2017 03:26:12]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:26:15]		Succesfully loaded the list.
+[15/07/2017 03:26:19]		Analizing  list for changes.
+[15/07/2017 03:26:24]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:26:26]		Succesfully loaded the list.
+[15/07/2017 03:26:30]		Analizing  list for changes.
+[15/07/2017 03:26:35]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:26:38]		Succesfully loaded the list.
+[15/07/2017 03:26:40]		Analizing  list for changes.
+[15/07/2017 03:26:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:26:51]		Succesfully loaded the list.
+[15/07/2017 03:26:54]		Analizing  list for changes.
+[15/07/2017 03:26:59]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:27:05]		Succesfully loaded the list.
+[15/07/2017 03:27:07]		Analizing  list for changes.
+[15/07/2017 03:27:12]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:27:14]		Succesfully loaded the list.
+[15/07/2017 03:27:22]		Analizing  list for changes.
+[15/07/2017 03:27:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:27:29]		Succesfully loaded the list.
+[15/07/2017 03:27:31]		Analizing  list for changes.
+[15/07/2017 03:27:36]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:27:47]		Succesfully loaded the list.
+[15/07/2017 03:27:49]		Analizing  list for changes.
+[15/07/2017 03:27:54]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:27:57]		Succesfully loaded the list.
+[15/07/2017 03:28:00]		Analizing  list for changes.
+[15/07/2017 03:28:06]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:28:09]		Succesfully loaded the list.
+[15/07/2017 03:28:12]		Analizing  list for changes.
+[15/07/2017 03:28:23]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:28:26]		Succesfully loaded the list.
+[15/07/2017 03:28:28]		Analizing  list for changes.
+[15/07/2017 03:28:33]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:28:35]		Succesfully loaded the list.
+[15/07/2017 03:28:37]		Analizing  list for changes.
+[15/07/2017 03:28:42]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:28:44]		Succesfully loaded the list.
+[15/07/2017 03:28:46]		Analizing  list for changes.
+[15/07/2017 03:28:52]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:28:53]		Succesfully loaded the list.
+[15/07/2017 03:28:55]		Analizing  list for changes.
+[15/07/2017 03:29:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:29:04]		Succesfully loaded the list.
+[15/07/2017 03:29:08]		Analizing  list for changes.
+[15/07/2017 03:29:13]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:29:19]		Succesfully loaded the list.
+[15/07/2017 03:29:22]		Analizing  list for changes.
+[15/07/2017 03:29:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:29:37]		Succesfully loaded the list.
+[15/07/2017 03:29:42]		Analizing  list for changes.
+[15/07/2017 03:29:48]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:29:51]		Succesfully loaded the list.
+[15/07/2017 03:29:54]		Analizing  list for changes.
+[15/07/2017 03:29:59]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:30:03]		Succesfully loaded the list.
+[15/07/2017 03:30:09]		Analizing  list for changes.
+[15/07/2017 03:30:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:30:18]		Succesfully loaded the list.
+[15/07/2017 03:30:24]		Analizing  list for changes.
+[15/07/2017 03:30:30]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:30:38]		Succesfully loaded the list.
+[15/07/2017 03:30:46]		Analizing  list for changes.
+[15/07/2017 03:30:52]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:31:05]		Succesfully loaded the list.
+[15/07/2017 03:31:08]		Analizing  list for changes.
+[15/07/2017 03:31:13]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:31:18]		Succesfully loaded the list.
+[15/07/2017 03:31:20]		Analizing  list for changes.
+[15/07/2017 03:31:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:31:28]		Succesfully loaded the list.
+[15/07/2017 03:31:33]		Analizing  list for changes.
+[15/07/2017 03:31:38]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:31:40]		Succesfully loaded the list.
+[15/07/2017 03:31:42]		Analizing  list for changes.
+[15/07/2017 03:31:48]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:31:50]		Succesfully loaded the list.
+[15/07/2017 03:31:55]		Analizing  list for changes.
+[15/07/2017 03:32:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:32:04]		Succesfully loaded the list.
+[15/07/2017 03:32:09]		Analizing  list for changes.
+[15/07/2017 03:32:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:32:23]		Succesfully loaded the list.
+[15/07/2017 03:32:27]		Analizing  list for changes.
+[15/07/2017 03:32:32]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:32:34]		Succesfully loaded the list.
+[15/07/2017 03:32:37]		Analizing  list for changes.
+[15/07/2017 03:32:42]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:32:46]		Succesfully loaded the list.
+[15/07/2017 03:32:47]		Analizing  list for changes.
+[15/07/2017 03:32:53]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:32:54]		Succesfully loaded the list.
+[15/07/2017 03:32:56]		Analizing  list for changes.
+[15/07/2017 03:33:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:33:02]		Succesfully loaded the list.
+[15/07/2017 03:33:05]		Analizing  list for changes.
+[15/07/2017 03:33:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:33:18]		Succesfully loaded the list.
+[15/07/2017 03:33:20]		Analizing  list for changes.
+[15/07/2017 03:33:25]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:33:27]		Succesfully loaded the list.
+[15/07/2017 03:33:28]		Analizing  list for changes.
+[15/07/2017 03:33:34]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:33:36]		Succesfully loaded the list.
+[15/07/2017 03:33:38]		Analizing  list for changes.
+[15/07/2017 03:33:43]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:33:45]		Succesfully loaded the list.
+[15/07/2017 03:33:47]		Analizing  list for changes.
+[15/07/2017 03:33:53]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:33:54]		Succesfully loaded the list.
+[15/07/2017 03:33:56]		Analizing  list for changes.
+[15/07/2017 03:34:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:34:08]		Succesfully loaded the list.
+[15/07/2017 03:34:11]		Analizing  list for changes.
+[15/07/2017 03:34:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:34:19]		Succesfully loaded the list.
+[15/07/2017 03:34:21]		Analizing  list for changes.
+[15/07/2017 03:34:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:34:29]		Succesfully loaded the list.
+[15/07/2017 03:34:33]		Analizing  list for changes.
+[15/07/2017 03:34:38]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:34:40]		Succesfully loaded the list.
+[15/07/2017 03:34:43]		Analizing  list for changes.
+[15/07/2017 03:34:49]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:34:50]		Succesfully loaded the list.
+[15/07/2017 03:34:52]		Analizing  list for changes.
+[15/07/2017 03:34:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:34:59]		Succesfully loaded the list.
+[15/07/2017 03:35:04]		Analizing  list for changes.
+[15/07/2017 03:35:09]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:35:11]		Succesfully loaded the list.
+[15/07/2017 03:35:16]		Analizing  list for changes.
+[15/07/2017 03:35:22]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:35:24]		Succesfully loaded the list.
+[15/07/2017 03:35:28]		Analizing  list for changes.
+[15/07/2017 03:35:33]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:35:36]		Succesfully loaded the list.
+[15/07/2017 03:35:39]		Analizing  list for changes.
+[15/07/2017 03:35:50]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:35:53]		Succesfully loaded the list.
+[15/07/2017 03:35:55]		Analizing  list for changes.
+[15/07/2017 03:36:00]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:36:03]		Succesfully loaded the list.
+[15/07/2017 03:36:04]		Analizing  list for changes.
+[15/07/2017 03:36:10]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:36:12]		Succesfully loaded the list.
+[15/07/2017 03:36:14]		Analizing  list for changes.
+[15/07/2017 03:36:19]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:36:20]		Succesfully loaded the list.
+[15/07/2017 03:36:23]		Analizing  list for changes.
+[15/07/2017 03:36:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:36:30]		Succesfully loaded the list.
+[15/07/2017 03:36:31]		Analizing  list for changes.
+[15/07/2017 03:36:37]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:36:38]		Succesfully loaded the list.
+[15/07/2017 03:36:40]		Analizing  list for changes.
+[15/07/2017 03:36:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:36:50]		Succesfully loaded the list.
+[15/07/2017 03:36:53]		Analizing  list for changes.
+[15/07/2017 03:36:59]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:36:59]		Succesfully loaded the list.
+[15/07/2017 03:37:01]		Analizing  list for changes.
+[15/07/2017 03:37:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:37:12]		Succesfully loaded the list.
+[15/07/2017 03:37:14]		Analizing  list for changes.
+[15/07/2017 03:37:19]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:37:20]		Succesfully loaded the list.
+[15/07/2017 03:37:22]		Analizing  list for changes.
+[15/07/2017 03:37:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:37:30]		Succesfully loaded the list.
+[15/07/2017 03:37:32]		Analizing  list for changes.
+[15/07/2017 03:37:37]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:37:38]		Succesfully loaded the list.
+[15/07/2017 03:37:40]		Analizing  list for changes.
+[15/07/2017 03:37:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:37:47]		Succesfully loaded the list.
+[15/07/2017 03:37:49]		Analizing  list for changes.
+[15/07/2017 03:37:59]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:38:02]		Succesfully loaded the list.
+[15/07/2017 03:38:05]		Analizing  list for changes.
+[15/07/2017 03:38:10]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:38:11]		Succesfully loaded the list.
+[15/07/2017 03:38:14]		Analizing  list for changes.
+[15/07/2017 03:38:19]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:38:22]		Succesfully loaded the list.
+[15/07/2017 03:38:24]		Analizing  list for changes.
+[15/07/2017 03:38:30]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:38:34]		Succesfully loaded the list.
+[15/07/2017 03:38:36]		Analizing  list for changes.
+[15/07/2017 03:38:41]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:38:43]		Succesfully loaded the list.
+[15/07/2017 03:38:45]		Analizing  list for changes.
+[15/07/2017 03:38:51]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:38:52]		Succesfully loaded the list.
+[15/07/2017 03:38:56]		Analizing  list for changes.
+[15/07/2017 03:39:02]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:39:05]		Succesfully loaded the list.
+[15/07/2017 03:39:08]		Analizing  list for changes.
+[15/07/2017 03:39:13]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:39:17]		Succesfully loaded the list.
+[15/07/2017 03:39:20]		Analizing  list for changes.
+[15/07/2017 03:39:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:39:27]		Succesfully loaded the list.
+[15/07/2017 03:39:29]		Analizing  list for changes.
+[15/07/2017 03:39:35]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:39:36]		Succesfully loaded the list.
+[15/07/2017 03:39:39]		Analizing  list for changes.
+[15/07/2017 03:39:44]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:39:50]		Succesfully loaded the list.
+[15/07/2017 03:39:52]		Analizing  list for changes.
+[15/07/2017 03:39:57]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:40:00]		Succesfully loaded the list.
+[15/07/2017 03:40:01]		Analizing  list for changes.
+[15/07/2017 03:40:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:40:09]		Succesfully loaded the list.
+[15/07/2017 03:40:10]		Analizing  list for changes.
+[15/07/2017 03:40:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:40:19]		Succesfully loaded the list.
+[15/07/2017 03:40:20]		Analizing  list for changes.
+[15/07/2017 03:40:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:40:27]		Succesfully loaded the list.
+[15/07/2017 03:40:30]		Analizing  list for changes.
+[15/07/2017 03:40:35]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:40:37]		Succesfully loaded the list.
+[15/07/2017 03:40:41]		Analizing  list for changes.
+[15/07/2017 03:40:46]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:40:48]		Succesfully loaded the list.
+[15/07/2017 03:40:52]		Analizing  list for changes.
+[15/07/2017 03:40:57]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:40:59]		Succesfully loaded the list.
+[15/07/2017 03:41:02]		Analizing  list for changes.
+[15/07/2017 03:41:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:41:09]		Succesfully loaded the list.
+[15/07/2017 03:41:13]		Analizing  list for changes.
+[15/07/2017 03:41:18]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:41:20]		Succesfully loaded the list.
+[15/07/2017 03:41:23]		Analizing  list for changes.
+[15/07/2017 03:41:33]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:41:35]		Succesfully loaded the list.
+[15/07/2017 03:41:38]		Analizing  list for changes.
+[15/07/2017 03:41:43]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:41:46]		Succesfully loaded the list.
+[15/07/2017 03:41:47]		Analizing  list for changes.
+[15/07/2017 03:41:52]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:41:55]		Succesfully loaded the list.
+[15/07/2017 03:41:56]		Analizing  list for changes.
+[15/07/2017 03:42:02]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:42:03]		Succesfully loaded the list.
+[15/07/2017 03:42:05]		Analizing  list for changes.
+[15/07/2017 03:42:10]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:42:12]		Succesfully loaded the list.
+[15/07/2017 03:42:14]		Analizing  list for changes.
+[15/07/2017 03:42:19]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:42:20]		Succesfully loaded the list.
+[15/07/2017 03:42:23]		Analizing  list for changes.
+[15/07/2017 03:42:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:42:30]		Succesfully loaded the list.
+[15/07/2017 03:42:32]		Analizing  list for changes.
+[15/07/2017 03:42:37]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:42:39]		Succesfully loaded the list.
+[15/07/2017 03:42:41]		Analizing  list for changes.
+[15/07/2017 03:42:47]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:42:49]		Succesfully loaded the list.
+[15/07/2017 03:42:53]		Analizing  list for changes.
+[15/07/2017 03:42:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:43:00]		Succesfully loaded the list.
+[15/07/2017 03:43:02]		Analizing  list for changes.
+[15/07/2017 03:43:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:43:09]		Succesfully loaded the list.
+[15/07/2017 03:43:11]		Analizing  list for changes.
+[15/07/2017 03:43:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:43:19]		Succesfully loaded the list.
+[15/07/2017 03:43:21]		Analizing  list for changes.
+[15/07/2017 03:43:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:43:29]		Succesfully loaded the list.
+[15/07/2017 03:43:32]		Analizing  list for changes.
+[15/07/2017 03:43:38]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:43:39]		Succesfully loaded the list.
+[15/07/2017 03:43:41]		Analizing  list for changes.
+[15/07/2017 03:43:47]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:43:49]		Succesfully loaded the list.
+[15/07/2017 03:43:51]		Analizing  list for changes.
+[15/07/2017 03:43:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:43:58]		Succesfully loaded the list.
+[15/07/2017 03:44:03]		Analizing  list for changes.
+[15/07/2017 03:44:09]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:44:11]		Succesfully loaded the list.
+[15/07/2017 03:44:13]		Analizing  list for changes.
+[15/07/2017 03:44:18]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:44:21]		Succesfully loaded the list.
+[15/07/2017 03:44:23]		Analizing  list for changes.
+[15/07/2017 03:44:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:44:32]		Succesfully loaded the list.
+[15/07/2017 03:44:36]		Analizing  list for changes.
+[15/07/2017 03:44:41]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:44:43]		Succesfully loaded the list.
+[15/07/2017 03:44:46]		Analizing  list for changes.
+[15/07/2017 03:44:51]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:44:55]		Succesfully loaded the list.
+[15/07/2017 03:44:57]		Analizing  list for changes.
+[15/07/2017 03:45:02]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:45:06]		Succesfully loaded the list.
+[15/07/2017 03:45:09]		Analizing  list for changes.
+[15/07/2017 03:45:14]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:45:21]		Succesfully loaded the list.
+[15/07/2017 03:45:23]		Analizing  list for changes.
+[15/07/2017 03:45:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:45:31]		Succesfully loaded the list.
+[15/07/2017 03:45:33]		Analizing  list for changes.
+[15/07/2017 03:45:38]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:45:40]		Succesfully loaded the list.
+[15/07/2017 03:45:42]		Analizing  list for changes.
+[15/07/2017 03:45:47]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:45:49]		Succesfully loaded the list.
+[15/07/2017 03:45:51]		Analizing  list for changes.
+[15/07/2017 03:45:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:45:59]		Succesfully loaded the list.
+[15/07/2017 03:46:01]		Analizing  list for changes.
+[15/07/2017 03:46:06]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:46:07]		Succesfully loaded the list.
+[15/07/2017 03:46:09]		Analizing  list for changes.
+[15/07/2017 03:46:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:46:22]		Succesfully loaded the list.
+[15/07/2017 03:46:24]		Analizing  list for changes.
+[15/07/2017 03:46:31]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:46:32]		Succesfully loaded the list.
+[15/07/2017 03:46:34]		Analizing  list for changes.
+[15/07/2017 03:46:39]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:46:41]		Succesfully loaded the list.
+[15/07/2017 03:46:42]		Analizing  list for changes.
+[15/07/2017 03:46:47]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:46:49]		Succesfully loaded the list.
+[15/07/2017 03:46:51]		Analizing  list for changes.
+[15/07/2017 03:46:56]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:46:57]		Succesfully loaded the list.
+[15/07/2017 03:46:59]		Analizing  list for changes.
+[15/07/2017 03:47:04]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:47:06]		Succesfully loaded the list.
+[15/07/2017 03:47:08]		Analizing  list for changes.
+[15/07/2017 03:47:13]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:47:15]		Succesfully loaded the list.
+[15/07/2017 03:47:16]		Analizing  list for changes.
+[15/07/2017 03:47:22]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:47:23]		Succesfully loaded the list.
+[15/07/2017 03:47:25]		Analizing  list for changes.
+[15/07/2017 03:47:30]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:47:32]		Succesfully loaded the list.
+[15/07/2017 03:47:34]		Analizing  list for changes.
+[15/07/2017 03:47:39]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:47:41]		Succesfully loaded the list.
+[15/07/2017 03:47:43]		Analizing  list for changes.
+[15/07/2017 03:47:48]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:47:51]		Succesfully loaded the list.
+[15/07/2017 03:47:53]		Analizing  list for changes.
+[15/07/2017 03:47:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:48:00]		Succesfully loaded the list.
+[15/07/2017 03:48:02]		Analizing  list for changes.
+[15/07/2017 03:48:08]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:48:09]		Succesfully loaded the list.
+[15/07/2017 03:48:10]		Analizing  list for changes.
+[15/07/2017 03:48:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:48:17]		Succesfully loaded the list.
+[15/07/2017 03:48:19]		Analizing  list for changes.
+[15/07/2017 03:48:25]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:48:27]		Succesfully loaded the list.
+[15/07/2017 03:48:29]		Analizing  list for changes.
+[15/07/2017 03:48:34]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:48:37]		Succesfully loaded the list.
+[15/07/2017 03:48:39]		Analizing  list for changes.
+[15/07/2017 03:48:44]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:48:51]		Succesfully loaded the list.
+[15/07/2017 03:48:53]		Analizing  list for changes.
+[15/07/2017 03:48:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:49:00]		Succesfully loaded the list.
+[15/07/2017 03:49:01]		Analizing  list for changes.
+[15/07/2017 03:49:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:49:09]		Succesfully loaded the list.
+[15/07/2017 03:49:11]		Analizing  list for changes.
+[15/07/2017 03:49:16]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:49:19]		Succesfully loaded the list.
+[15/07/2017 03:49:21]		Analizing  list for changes.
+[15/07/2017 03:49:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:49:30]		Succesfully loaded the list.
+[15/07/2017 03:49:32]		Analizing  list for changes.
+[15/07/2017 03:49:37]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:49:43]		Succesfully loaded the list.
+[15/07/2017 03:49:47]		Analizing  list for changes.
+[15/07/2017 03:49:52]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:49:55]		Succesfully loaded the list.
+[15/07/2017 03:49:59]		Analizing  list for changes.
+[15/07/2017 03:50:05]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:50:08]		Succesfully loaded the list.
+[15/07/2017 03:50:10]		Analizing  list for changes.
+[15/07/2017 03:50:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:50:18]		Succesfully loaded the list.
+[15/07/2017 03:50:20]		Analizing  list for changes.
+[15/07/2017 03:50:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:50:29]		Succesfully loaded the list.
+[15/07/2017 03:50:32]		Analizing  list for changes.
+[15/07/2017 03:50:37]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:50:39]		Succesfully loaded the list.
+[15/07/2017 03:50:42]		Analizing  list for changes.
+[15/07/2017 03:50:47]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:50:49]		Succesfully loaded the list.
+[15/07/2017 03:50:51]		Analizing  list for changes.
+[15/07/2017 03:50:57]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:50:59]		Succesfully loaded the list.
+[15/07/2017 03:51:00]		Analizing  list for changes.
+[15/07/2017 03:51:06]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:51:10]		Succesfully loaded the list.
+[15/07/2017 03:51:12]		Analizing  list for changes.
+[15/07/2017 03:51:17]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:51:20]		Succesfully loaded the list.
+[15/07/2017 03:51:21]		Analizing  list for changes.
+[15/07/2017 03:51:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:51:29]		Succesfully loaded the list.
+[15/07/2017 03:51:31]		Analizing  list for changes.
+[15/07/2017 03:51:37]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:51:41]		Succesfully loaded the list.
+[15/07/2017 03:51:43]		Analizing  list for changes.
+[15/07/2017 03:51:48]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:51:49]		Succesfully loaded the list.
+[15/07/2017 03:51:52]		Analizing  list for changes.
+[15/07/2017 03:51:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:52:04]		Succesfully loaded the list.
+[15/07/2017 03:52:07]		Analizing  list for changes.
+[15/07/2017 03:52:12]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:52:14]		Succesfully loaded the list.
+[15/07/2017 03:52:17]		Analizing  list for changes.
+[15/07/2017 03:52:22]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:52:24]		Succesfully loaded the list.
+[15/07/2017 03:52:26]		Analizing  list for changes.
+[15/07/2017 03:52:31]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:52:34]		Succesfully loaded the list.
+[15/07/2017 03:52:35]		Analizing  list for changes.
+[15/07/2017 03:52:41]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:52:42]		Succesfully loaded the list.
+[15/07/2017 03:52:44]		Analizing  list for changes.
+[15/07/2017 03:52:49]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:52:51]		Succesfully loaded the list.
+[15/07/2017 03:52:53]		Analizing  list for changes.
+[15/07/2017 03:52:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:53:00]		Succesfully loaded the list.
+[15/07/2017 03:53:02]		Analizing  list for changes.
+[15/07/2017 03:53:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:53:10]		Succesfully loaded the list.
+[15/07/2017 03:53:11]		Analizing  list for changes.
+[15/07/2017 03:53:17]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:53:19]		Succesfully loaded the list.
+[15/07/2017 03:53:22]		Analizing  list for changes.
+[15/07/2017 03:53:27]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:53:29]		Succesfully loaded the list.
+[15/07/2017 03:53:31]		Analizing  list for changes.
+[15/07/2017 03:53:36]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:53:38]		Succesfully loaded the list.
+[15/07/2017 03:53:40]		Analizing  list for changes.
+[15/07/2017 03:53:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:53:48]		Succesfully loaded the list.
+[15/07/2017 03:53:53]		Analizing  list for changes.
+[15/07/2017 03:53:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:54:00]		Succesfully loaded the list.
+[15/07/2017 03:54:03]		Analizing  list for changes.
+[15/07/2017 03:54:08]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:54:10]		Succesfully loaded the list.
+[15/07/2017 03:54:12]		Analizing  list for changes.
+[15/07/2017 03:54:17]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:54:18]		Succesfully loaded the list.
+[15/07/2017 03:54:21]		Analizing  list for changes.
+[15/07/2017 03:54:26]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:54:28]		Succesfully loaded the list.
+[15/07/2017 03:54:30]		Analizing  list for changes.
+[15/07/2017 03:54:36]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:54:38]		Succesfully loaded the list.
+[15/07/2017 03:54:39]		Analizing  list for changes.
+[15/07/2017 03:54:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:54:52]		Succesfully loaded the list.
+[15/07/2017 03:54:56]		Analizing  list for changes.
+[15/07/2017 03:55:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:55:04]		Succesfully loaded the list.
+[15/07/2017 03:55:06]		Analizing  list for changes.
+[15/07/2017 03:55:12]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:55:14]		Succesfully loaded the list.
+[15/07/2017 03:55:17]		Analizing  list for changes.
+[15/07/2017 03:55:22]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:55:23]		Succesfully loaded the list.
+[15/07/2017 03:55:27]		Analizing  list for changes.
+[15/07/2017 03:55:33]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:55:35]		Succesfully loaded the list.
+[15/07/2017 03:55:38]		Analizing  list for changes.
+[15/07/2017 03:55:43]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:55:45]		Succesfully loaded the list.
+[15/07/2017 03:55:47]		Analizing  list for changes.
+[15/07/2017 03:55:52]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:55:54]		Succesfully loaded the list.
+[15/07/2017 03:55:55]		Analizing  list for changes.
+[15/07/2017 03:56:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:56:03]		Succesfully loaded the list.
+[15/07/2017 03:56:04]		Analizing  list for changes.
+[15/07/2017 03:56:10]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:56:11]		Succesfully loaded the list.
+[15/07/2017 03:56:14]		Analizing  list for changes.
+[15/07/2017 03:56:19]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:56:21]		Succesfully loaded the list.
+[15/07/2017 03:56:23]		Analizing  list for changes.
+[15/07/2017 03:56:28]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:56:29]		Succesfully loaded the list.
+[15/07/2017 03:56:31]		Analizing  list for changes.
+[15/07/2017 03:56:36]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:56:38]		Succesfully loaded the list.
+[15/07/2017 03:56:40]		Analizing  list for changes.
+[15/07/2017 03:56:45]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:56:51]		Succesfully loaded the list.
+[15/07/2017 03:56:53]		Analizing  list for changes.
+[15/07/2017 03:56:58]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:57:00]		Succesfully loaded the list.
+[15/07/2017 03:57:01]		Analizing  list for changes.
+[15/07/2017 03:57:07]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:57:09]		Succesfully loaded the list.
+[15/07/2017 03:57:10]		Analizing  list for changes.
+[15/07/2017 03:57:15]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:57:17]		Succesfully loaded the list.
+[15/07/2017 03:57:19]		Analizing  list for changes.
+[15/07/2017 03:57:24]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:57:27]		Succesfully loaded the list.
+[15/07/2017 03:57:29]		Analizing  list for changes.
+[15/07/2017 03:57:34]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:57:36]		Succesfully loaded the list.
+[15/07/2017 03:57:38]		Analizing  list for changes.
+[15/07/2017 03:57:43]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:57:45]		Succesfully loaded the list.
+[15/07/2017 03:57:47]		Analizing  list for changes.
+[15/07/2017 03:57:52]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:57:54]		Succesfully loaded the list.
+[15/07/2017 03:57:56]		Analizing  list for changes.
+[15/07/2017 03:58:01]		Getting the playlist #3338048526 from deezer.
+[15/07/2017 03:58:04]		Succesfully loaded the list.
+[15/07/2017 03:58:05]		Analizing  list for changes.
